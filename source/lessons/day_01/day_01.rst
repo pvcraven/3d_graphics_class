@@ -71,13 +71,23 @@ Day 01
 
 .. image:: Picture15.png
 
-* Go over final project
-* Work through Unit 1 of the Tufts tutorials.
+* Go over final project so you know where we are headed.
+* There will be a total of nine assignments before the final project.
+* We will be working through part of CG Cookie's `Introduction to Blender`_ flow.
+* Today:
 
+  * Work through `Blender Basics Course`_
+  * Work through `Mesh Modeling Fundamentals`_
   * Make sure all video tutorials are done by start of next class
-  * Have extra time? Work more tutorials from section 2 or practice using the
-    interface.
+  * Work on `Mesh Modeling Exercise 01`_
+  * Have extra time? Work more tutorials from the `Introduction to Blender`_ flow.
+    Some of these will be assigned, some will be optional.
   * The quicker the tutorials are completed, the more time will be available
     for creating a movie or graphic stills.
 
-* Finish Assignment 1
+* Finish `Mesh Modeling Exercise 01`_
+
+.. _Introduction to Blender: https://cgcookie.com/flow/introduction-to-blender/
+.. _Blender Basics Course: https://cgcookie.com/course/blender-basics/
+.. _Mesh Modeling Fundamentals: https://cgcookie.com/course/mesh-modeling-fundamentals/
+.. _Mesh Modeling Exercise 01: https://cgcookie.com/exercise/mesh-modeling-exercise-01/
