@@ -6,6 +6,10 @@ Final Project
 *Note: This is preliminary.* Scoring will change, as the reflection isn't
 currently listed as part of the points.
 
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_olEMqdFRvA?list=PLUjR0nhln8uYyeKiqWZVjeChDkW1aYMYd" frameborder="0" allowfullscreen></iframe>
+
 Goal
 ----
 
