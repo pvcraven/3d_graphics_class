@@ -53,10 +53,12 @@ Browse CG Art
   I'll have them here in class for a while. Look through them.
 * Browse the `CG Cookie Gallery`_.
 * Spend time browsing `CG Society`_ to get ideas.
+* Go through `Sketchfab`_ and look for things.
 
 .. _CG Society: http://www.cgsociety.org/
 .. _CG Cookie Gallery: https://cgcookie.com/gallery/
 .. _3D World Magazine: http://www.creativebloq.com/3d-world-magazine
+.. _Sketchfab: https://sketchfab.com/
 
 Experiment
 ^^^^^^^^^^
@@ -109,16 +111,3 @@ Assignment 3
 Talk about :ref:`assignment_03`.
 
 
-Tutorials
----------
-
-Make sure you've finished:
-
-* :ref:`Assignment_01`
-* :ref:`Assignment_02`
-
-Next, work through the
-`Fundamentals of Texturing <https://cgcookie.com/course/introduction-to-texturing/>`_
-set of videos.
-
-After that, work on
