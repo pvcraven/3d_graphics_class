@@ -5,6 +5,8 @@ Reminders
 ---------
 
 * Two assignments due tomorrow.
+* I've added a PDF with May Term hours.
+* Reminder - Scholar grading issues.
 * Yesterday we talked about an artist's ability to convey a message. Remember
   to take a look at **what** the message was, and then **how** it was conveyed.
 * Next we worked on videos that covered the basics of Blender and
@@ -14,7 +16,9 @@ Learning Blender Plan
 ---------------------
 
 The idea is to spend a week and a half on learning Blender. Then switch to
-working on the project.
+working on the project. Depending on your prior experience, you may be able to
+more or less material than others. That's ok. But you do need to cover at
+least the core videos.
 
 Required Tutorial Videos
 ^^^^^^^^^^^^^^^^^^^^^^^^
@@ -26,10 +30,25 @@ Required Tutorial Videos
 * `Lighting <https://cgcookie.com/course/fundamentals-of-lighting/>`_
 * `Modeling with Modifiers <https://cgcookie.com/course/modeling-with-modifiers/>`_
 * `Fundamentals of Animation <https://cgcookie.com/course/fundamentals-of-animation/>`_
-* `Fundamentals of Rendering Chapter 1 and 2 only are required, but the others are good. <https://cgcookie.com/course/fundamentals-of-animation/>`_
+* `Fundamentals of Rendering <https://cgcookie.com/course/fundamentals-of-animation/>`_ Chapter 1 and 2 only are required, but the others are good if you've got the time.
 
-You should have finished out the Blender Basics. I hope you've finished or
-nearly finished the Mesh Modeling Fundamentals.
+Secondary Priority Videos
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Rigging <https://cgcookie.com/course/fundamentals-of-rigging/>`_
+* `Sculpting <https://cgcookie.com/course/fundamentals-of-digital-sculpting/>`_
+* `Dynamics <https://cgcookie.com/course/fundamentals-of-dynamics/>`_
+
+After this, split out and learn some other things. CG Cookie has 81 different
+courses you can go through:
+
+    https://cgcookie.com/courses/?fwp_division=blender
+
+What's Next?
+^^^^^^^^^^^^
+
+By now, you definitely should have finished out the Blender Basics.
+I hope you've finished or nearly finished the Mesh Modeling Fundamentals.
 
 I've felt these are reasonably straight forward. The next thing CG Cookie
 has on their plan is the Fundamentals of Texturing.
@@ -62,17 +81,6 @@ a test of you, but a test of the course.
 .. image:: dont_panic.jpg
   :width: 300px
 
-Secondary Priority Videos
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* `Rigging <https://cgcookie.com/course/fundamentals-of-rigging/>`_
-* `Sculpting <https://cgcookie.com/course/fundamentals-of-digital-sculpting/>`_
-* `Dynamics <https://cgcookie.com/course/fundamentals-of-dynamics/>`_
-
-After this, split out and learn some other things. CG Cookie has 81 different
-courses you can go through:
-
-    https://cgcookie.com/courses/?fwp_division=blender
 
 Need a Break?
 -------------
@@ -104,6 +112,8 @@ something.
 But don't think to yourself "I'm going to model a city!" Model something simple.
 Model a street lamp. A fire hydrant. Any of these could be things that you use
 in a city.
+
+Modeling people or animals is hard. I suggest starting with inanimate objects.
 
 Class Discussion
 ----------------
@@ -143,5 +153,3 @@ Assignment 3
 ------------
 
 Talk about :ref:`assignment_03`.
-
-
