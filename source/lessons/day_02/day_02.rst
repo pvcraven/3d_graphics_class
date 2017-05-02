@@ -21,12 +21,46 @@ Required Tutorial Videos
 
 * `Blender Basics <https://cgcookie.com/course/blender-basics/>`_
 * `Mesh Modeling Fundamentals <https://cgcookie.com/course/mesh-modeling-fundamentals/>`_
+* `Fundamentals of Texturing <https://cgcookie.com/course/introduction-to-texturing/>`_
 * `Shading <https://cgcookie.com/course/shading-fundamentals-in-cycles/>`_
 * `Lighting <https://cgcookie.com/course/fundamentals-of-lighting/>`_
 * `Modeling with Modifiers <https://cgcookie.com/course/modeling-with-modifiers/>`_
 * `Fundamentals of Animation <https://cgcookie.com/course/fundamentals-of-animation/>`_
 * `Fundamentals of Rendering Chapter 1 and 2 only are required, but the others are good. <https://cgcookie.com/course/fundamentals-of-animation/>`_
 
+You should have finished out the Blender Basics. I hope you've finished or
+nearly finished the Mesh Modeling Fundamentals.
+
+I've felt these are reasonably straight forward. The next thing CG Cookie
+has on their plan is the Fundamentals of Texturing.
+
+The overall concept of this is easy. How do you paint a 3D object? Give it color?
+Give it life? Somehow we need to turn a 3D object into a 2D object that we can
+paint on using a paint program.
+
+Think of it as using wrapping paper. Wrapping a book is easy. A cube not as
+easy. A sphere is hard. How about a person? Complex shapes get very hard.
+
+We call this `UV Unwrapping`_ or UV Mapping.
+
+.. _UV Unwrapping: https://en.wikipedia.org/wiki/UV_mapping
+
+The plan is to work on this
+next. In the past when I taught this class I didn't usually cover this until
+later. Mostly because my reaction to
+UV unwrapping, even after several years, has always been:
+
+.. image:: wat.jpg
+
+But CG Cookie has this up earlier in their flow.
+I'm not exactly sure how this part of the course will go.
+I'm not sure how long it will take.
+I'll randomly
+drop in on some of you and see how it is going. Please realize this isn't
+a test of you, but a test of the course.
+
+.. image:: dont_panic.jpg
+  :width: 300px
 
 Secondary Priority Videos
 ^^^^^^^^^^^^^^^^^^^^^^^^^
