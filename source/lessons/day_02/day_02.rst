@@ -11,6 +11,10 @@ Reminders
   to take a look at **what** the message was, and then **how** it was conveyed.
 * Next we worked on videos that covered the basics of Blender and
   covered the basics of Mesh modeling.
+* Blender is free and open-source. You can run it on your own computer without
+  paying for anything.
+* CG Cookie has a monthly subscription plan for the videos. The college is
+  covering the cost of your videos this month.
 
 Learning Blender Plan
 ---------------------
