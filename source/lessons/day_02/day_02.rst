@@ -57,18 +57,7 @@ I hope you've finished or nearly finished the Mesh Modeling Fundamentals.
 I've felt these are reasonably straight forward. The next thing CG Cookie
 has on their plan is the Fundamentals of Texturing.
 
-The overall concept of this is easy. How do you paint a 3D object? Give it color?
-Give it life? Somehow we need to turn a 3D object into a 2D object that we can
-paint on using a paint program.
-
-Think of it as using wrapping paper. Wrapping a book is easy. A cube not as
-easy. A sphere is hard. How about a person? Complex shapes get very hard.
-
-We call this `UV Unwrapping`_ or UV Mapping.
-
-.. _UV Unwrapping: https://en.wikipedia.org/wiki/UV_mapping
-
-The plan is to work on this
+The plan is to work on this texturing
 next. In the past when I taught this class I didn't usually cover this until
 later. Mostly because my reaction to
 UV unwrapping, even after several years, has always been:
@@ -84,6 +73,41 @@ a test of you, but a test of the course.
 
 .. image:: dont_panic.jpg
   :width: 300px
+
+
+The overall concept of this is easy. How do you paint a 3D object? Give it color?
+Give it life? Somehow we need to turn a 3D object into a 2D object that we can
+paint on using a paint program.
+
+Think of it as using wrapping paper. Wrapping a book is easy. A cube not as
+easy. A sphere is hard. How about a person? Complex shapes get very hard.
+
+We call this `UV Unwrapping`_ or UV Mapping.
+
+.. _UV Unwrapping: https://en.wikipedia.org/wiki/UV_mapping
+
+Next, the tutorial talks about how to "paint" on this unwrap so that you
+can add color to your 3D objects. After that, it talks about how you can
+paint not just on the 2D unwrap, but you can also paint on the 3D object
+itself. But wait! You by default that stuff isn't saved, so you need to
+go through the video on how to save your painting of the object.
+
+The next part that the tutorial covers is "baking." Baking helps add shadows to
+the part of the object that light doesn't easily reach. This is great if you
+want to make your object look realistic, and add dirt and wear to those
+cracks and crevices.
+
+At some point you may want to use an external painting program. Adobe
+has good apps, there is Gimp, or even the built-in Microsoft paint. The
+tutorial shows you how to do that.
+
+The end point on where we want to be, can you paint a 3D object? If you can
+do the exercise `Painting an Axe`_ then you've learned enough of this section.
+
+.. _Painting an Axe: https://cgcookie.com/exercise/texture-painting-an-ax/
+
+
+
 
 
 Need a Break?
