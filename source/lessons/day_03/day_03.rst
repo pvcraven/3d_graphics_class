@@ -12,11 +12,11 @@ Review
 
 * Knife tool
 * Mention units. One unit is one meter.
-* Talk about essays.
 
 Color Theory
 ------------
 
+* Talk about `the difference between serif and sans serif <https://www.fonts.com/content/learning/fontology/level-1/type-anatomy/serif-vs-sans-for-text-in-print>`_.
 * Talk about color and text. Note text of news sites like:
 
   * `Washington Post <https://www.washingtonpost.com/>`_
@@ -24,7 +24,6 @@ Color Theory
   * `Wall Street Journal <https://www.wsj.com/>`_
   * `New York Times <https://www.nytimes.com/>`_
 
-* Talk about `the difference between serif and sans serif <https://www.fonts.com/content/learning/fontology/level-1/type-anatomy/serif-vs-sans-for-text-in-print>`_.
 * Talk about `color theory`_.
 * Talk about creating color schemes. Look at `Adobe Kuler`_.
 
