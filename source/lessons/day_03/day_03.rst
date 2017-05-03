@@ -33,6 +33,7 @@ Blender Technical
 
 * Finish up with UV mapping and try painting the axe.
 * After that move on to `shading <https://cgcookie.com/course/shading-fundamentals-in-cycles/>`_.
+* Next assignment will be `shading a toy truck <https://cgcookie.com/exercise/shading-a-toy-truck/>`_.
 
 .. _Adobe Kuler: https://color.adobe.com/create/color-wheel/
 .. _color theory: http://www.worqx.com/color/index.htm
