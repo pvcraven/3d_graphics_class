@@ -9,4 +9,6 @@ Assignments
    assignment_02/assignment_02
    assignment_03/assignment_03
    assignment_04/assignment_04
+   assignment_05/assignment_05
+   assignment_06/assignment_06
    final_assignment/index

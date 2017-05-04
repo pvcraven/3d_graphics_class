@@ -1,5 +1,5 @@
-Day 01
-======
+Day 01 - Introduction and Blender Basics
+========================================
 
 Introduction
 ------------

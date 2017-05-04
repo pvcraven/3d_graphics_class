@@ -1,5 +1,5 @@
-Day 02
-======
+Day 02 - Meshes
+===============
 
 Reminders
 ---------
@@ -33,7 +33,7 @@ Required Tutorial Videos
 * `Shading <https://cgcookie.com/course/shading-fundamentals-in-cycles/>`_
 * `Lighting <https://cgcookie.com/course/fundamentals-of-lighting/>`_
 * `Modeling with Modifiers <https://cgcookie.com/course/modeling-with-modifiers/>`_
-* `Fundamentals of Animation <https://cgcookie.com/course/fundamentals-of-animation/>`_
+* `Fundamentals of Animation <https://cgcookie.com/course/fundamentals-of-animation/>`_ Animation tools only, NOT principals of animation.
 * `Fundamentals of Rendering <https://cgcookie.com/course/fundamentals-of-animation/>`_ Chapter 1 and 2 only are required, but the others are good if you've got the time.
 
 Secondary Priority Videos
