@@ -1,7 +1,7 @@
 .. _Assignment_01:
 
-Assignment 1 - Interpretation
------------------------------
+Assignment 1 - How Did The Artist Convey The Message?
+=====================================================
 
 Pick one of the following images that artists have posted on the
 CGSociety_ website.

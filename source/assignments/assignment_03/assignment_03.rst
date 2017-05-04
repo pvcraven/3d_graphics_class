@@ -1,7 +1,7 @@
 .. _Assignment_03:
 
-Assignment 3 - Interpretive
-===========================
+Assignment 3 - Back-Story
+=========================
 
 Look at this image:
 

@@ -1,7 +1,7 @@
 .. _Assignment_02:
 
-Assignment 2 - Technical
-========================
+Assignment 2 - Mesh Modeling
+============================
 
 * Name your file ``mesh_modeling_exercise_01_first_last.blend``, but replace ``first``
   with your first name and ``last`` with your last name.
