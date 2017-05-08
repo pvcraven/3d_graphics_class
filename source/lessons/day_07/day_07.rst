@@ -1,9 +1,7 @@
 Day 07 - Project Plan
 =====================
 
-Reminders
----------
+http://www.cosavfx.com/
+http://www.cgmeetup.net/home/cube-creative-demo-reel-2017/
 
-
-Review
-------
+https://www.artstation.com/artwork/QkVyE

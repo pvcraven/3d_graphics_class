@@ -1,6 +1,19 @@
 Day 06 - Modifiers
 ==================
 
+Analyze
+-------
+
+What is the message/feeling that the artist communicates? How does he/she do
+it?
+
+* `Heart of a Dolphin`_ by Michael Heath
+* `Lego Minifigures`_ created in 3ds Max, rendered in keyshot and composed in AE
+  by Daniele Boldi Cotti
+
+.. _Heart of a Dolphin: http://forums.cgsociety.org/showthread.php?f=132&t=1339503
+.. _Lego Minifigures: http://forums.cgsociety.org/showthread.php?f=132&t=1339166
+
 Watch Tears of Steel
 --------------------
 
@@ -13,9 +26,3 @@ Watch Tears of Steel
 * Do the artists accomplish the message?
 * How could it have been better?
 
-Analyze
--------
-
-http://forums.cgsociety.org/showthread.php?f=132&t=1339503
-
-http://forums.cgsociety.org/showthread.php?f=132&t=1339166
