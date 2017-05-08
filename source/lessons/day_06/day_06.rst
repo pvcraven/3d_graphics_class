@@ -26,3 +26,9 @@ Watch Tears of Steel
 * Do the artists accomplish the message?
 * How could it have been better?
 
+Today's Work
+------------
+
+Follow `Modeling With Modifiers`_ videos. Do :ref:`Assignment_05`.
+
+.. _Modeling With Modifiers: https://cgcookie.com/course/modeling-with-modifiers/
