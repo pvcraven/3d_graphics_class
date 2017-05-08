@@ -28,6 +28,8 @@ Directions
   will hold up his/her end of the assignment, then don't partner up. Teams may
   not be any larger than three people. Note how the scoring works, I expect
   more from larger teams.
+* If a team member fails to make a reasonable contribution to the project,
+  the instructor reserves the right to give that team member a zero.
 
 Checklist for turning in work
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

@@ -14,8 +14,12 @@ This assignment is an opportunity to think about what you want to create.
 Create a MS Word document and put your name at the top. If you are working in
 a team, you can have up to three people. List each person at the top. Select
 someone from your team to turn in the final copy. Please do not turn in three
-copies of the same plan. Everyone in the team will receive the same score for
-this project plan assignment.
+copies of the same plan.
+
+Everyone in the team will receive the same score for
+this project plan assignment. For the final project,
+if a team member fails to contribute they will be dropped from the project
+and not given a score, or have a significantly reduced score.
 
 Your project plan will be divided into three sections, described below.
 
