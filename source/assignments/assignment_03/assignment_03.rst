@@ -9,11 +9,17 @@ Look at this image:
 
     Image by Marek Denko
 
-Write a back-story to the image. Please include:
+Write a back-story to the image. Don't tell me about the image, but
+spend some time telling me a story that the image is a part of.
+
+Open the image in a new tab or zoom in on it. Don't miss seeing the woman
+in the background.
+
+Please include:
 
 * Name
 * Title
-* Approximately a 2/3 page back-story to the image.
+* At least a 2/3 page back-story to the image.
 
 Use paragraphs. Use proper grammar and spelling.
 
