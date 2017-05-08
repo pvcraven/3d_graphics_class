@@ -1,7 +1,7 @@
 .. _Assignment_06:
 
-Assignment 6 - Interpretive
-===========================
+Assignment 6 - Final Project Plan
+=================================
 
 Final Project Plan
 ------------------
