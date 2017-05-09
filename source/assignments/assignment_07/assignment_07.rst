@@ -3,6 +3,10 @@
 Assignment 7 - Animation
 ========================
 
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/HPhPYATdlXw" frameborder="0" allowfullscreen></iframe>
+
 Watch the "animation tools" portion of the `Fundamentals of Animation`_. Again,
 you don't have to watch the "animation principles" part.
 
@@ -33,4 +37,6 @@ in the videos.
 15. Select "Render animation"
 16. Be bored while it renders. If it looks like it will take to long, lower
     the resolution and samples.
+17. Upload and turn in the movie and the Blender file.
+
 
