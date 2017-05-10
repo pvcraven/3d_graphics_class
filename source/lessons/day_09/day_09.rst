@@ -3,34 +3,63 @@ Day 09 - Rendering / What is Art?
 
 Fine Art
 --------
+
+Why is this considered art? What makes it "good" art? van Gogh was not popular
+in his time and died poor and unappreciated. What changed?
+
 .. figure:: sunflowers.jpg
 
-    By Vincent van Gogh - http://www.nationalgallery.org.uk/paintings/vincent-van-gogh-sunflowers/50136, Public Domain, https://commons.wikimedia.org/w/index.php?curid=31177739
+    By Vincent van Gogh - Public Domain,
+    `Wikipedia Commons <https://commons.wikimedia.org/w/index.php?curid=31177739>`_
+
+Would the 6-year old's drawing below be considered art?
+If it is art, is it good art?
+What is the difference compared to Vincent van Gogh?
+What makes art "good" or "bad"?
 
 .. figure:: hayden.jpg
 
     Hayden Jung, age 6 Holiday camping, pencil, crayon
-    Winner of Art Gallary of South Wales contest
-    https://www.artgallery.nsw.gov.au/members/current-members/kids-drawing-prize-2016/
+    `Winner of Art Gallary of South Wales contest
+    <https://www.artgallery.nsw.gov.au/members/current-members/kids-drawing-prize-2016/>`_
+
+Graphic design for commercial products. Is it art?
+
+.. figure:: cheerios.jpg
+
+    By General Mills, Fair use,
+    `Wikipedia Commons <https://en.wikipedia.org/w/index.php?curid=87346499>`_
+
+Are cartoons art?
 
 .. figure:: Peanuts_gang.png
 
     Charles Schultz, United Feature Syndicate
 
-.. figure:: cheerios.jpg
-
-    By General Mills, Fair use, https://en.wikipedia.org/w/index.php?curid=8734649
+Are political cartoons art?
+`Search Google <https://www.google.com/search?q=political+cartoons&safe=active&source=lnms&tbm=isch&sa=X>`_
+for some cartoons.
+I find many of these cartoons to be offensive. Is that still art?
 
 Applied Art
 -----------
+
+Can architecture be art? Let's say that this is art. Why is it art?
 
 .. figure:: building1.jpg
 
     Austrailian Museum of the Applied Arts
 
+Is this also art? If it isn't, why not?
+
 .. figure:: office.jpg
 
     Randall Fisher Construction Co
+
+What is the purpose of creating a building like the first one? The bottom
+one is cheaper, and more energy efficient. When you buy things from the bottom
+company, they aren't needlessly spending their money on extra building materials
+like the top image.
 
 Performance Art
 ---------------
@@ -59,3 +88,19 @@ Why is Art Important?
 * From the standpoint of expressing yourself in art
 * From the standpoint of education
 * From the standpoint of understanding/persuasion
+
+Why support art?
+----------------
+
+* Why buy art?
+
+  * Buy art at art fairs?
+  * Buy tickets to movies?
+  * Art and usage rights
+
+* Why have public support for the arts?
+
+  * Why have band, orchestra, and art at school?
+  * Why have a "National Endowment for the Arts"?
+  * Why force people to support art they don't agree with?
+  * If people want art, shouldn't they just buy it?
