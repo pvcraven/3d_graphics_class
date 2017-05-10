@@ -21,12 +21,13 @@ Drawing, sculpting, printmaking
 
 * Cartoons (political cartoons, graphic novels, humor cartoons)
 * A first-grader's drawing
-* The design of a Cheerio's box (or any other commercial-type work)
+* The design of a Cheerios box (or any other commercial-type work)
 * Graffiti
 * Penmanship
 
 Music
 ^^^^^
+
 * Classical music
 * Rock music
 * Pop music (Auto-tune?)
