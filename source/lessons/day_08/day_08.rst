@@ -10,16 +10,45 @@ to get you started:
 * `Wikipedia <https://en.wikipedia.org/wiki/What_Is_Art%3F>`_
 * `Mental Floss <http://mentalfloss.com/article/57501/27-responses-question-what-art>`_
 
-Think, is the following art?
+Think, at what point do things in the following categories become art?
+
+What about controversial art? Is it still art? If it offends, is it still ok?
+
+Fine Art
+^^^^^^^^
+
+Drawing, sculpting, printmaking
 
 * Cartoons (political cartoons, graphic novels, humor cartoons)
 * A first-grader's drawing
 * The design of a Cheerio's box (or any other commercial-type work)
-* Architecture (Frank Lloyd Wright to a cookie-cutter house)
-* Pop music (Auto-tune?)
-* Theater (Acting can go from plays, Broadway, sitcoms, or even commercials)
-* Offensive art
 * Graffiti
+* Penmanship
+
+Music
+^^^^^
+* Classical music
+* Rock music
+* Pop music (Auto-tune?)
+
+Visual/Performance Art
+^^^^^^^^^^^^^^^^^^^^^^
+
+* Theater (Acting can go from plays, Broadway, sitcoms, or even commercials)
+* Ballet
+* Poetry slams
+* Flash mobs?
+
+Applied Art
+^^^^^^^^^^^
+
+* Architecture (Frank Lloyd Wright to a cookie-cutter house)
+* Design of things (chairs, lamps, etc.)
+
+Decorative Art
+^^^^^^^^^^^^^^
+
+* Crafts
 
 Animation
 ---------
