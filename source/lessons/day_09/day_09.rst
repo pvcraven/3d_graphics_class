@@ -4,13 +4,16 @@ Day 09 - Rendering / What is Art?
 Fine Art
 --------
 
-Why is this considered art? What makes it "good" art? van Gogh was not popular
+Why is this considered art? What makes it "good" art?
+
+The famous painting below is by Vincent van Gogh.
+He was not popular
 in his time and died poor and unappreciated. What changed?
 
 .. figure:: sunflowers.jpg
 
     By Vincent van Gogh - Public Domain,
-    `Wikipedia Commons <https://commons.wikimedia.org/w/index.php?curid=31177739>`_
+    `Sunflowers, Wikipedia Commons <https://commons.wikimedia.org/w/index.php?curid=31177739>`_
 
 Would the 6-year old's drawing below be considered art?
 If it is art, is it good art?
@@ -27,8 +30,7 @@ Graphic design for commercial products. Is it art?
 
 .. figure:: cheerios.jpg
 
-    By General Mills, Fair use,
-    `Wikipedia Commons <https://en.wikipedia.org/w/index.php?curid=87346499>`_
+    By General Mills, Fair use, `Wikipedia Commons <https://en.wikipedia.org/w/index.php?curid=87346499>`_
 
 Are cartoons art?
 
@@ -40,6 +42,12 @@ Are political cartoons art?
 `Search Google <https://www.google.com/search?q=political+cartoons&safe=active&source=lnms&tbm=isch&sa=X>`_
 for some cartoons.
 I find many of these cartoons to be offensive. Is that still art?
+
+How about this, is it art?
+
+.. figure:: paint_by_numbers.jpg
+
+    Royal Langnickel, Paint By Numbers
 
 Applied Art
 -----------
@@ -61,6 +69,14 @@ one is cheaper, and more energy efficient. When you buy things from the bottom
 company, they aren't needlessly spending their money on extra building materials
 like the top image.
 
+.. figure:: capital.jpg
+
+    `Wasteful and inefficient Iowa Capital building <http://maxpixel.freegreatpicture.com/Inside-Government-Iowa-Des-Moines-State-Capitol-1731557>`_
+
+.. figure:: leds.jpg
+
+    `Award winning interior of IPERS building <http://www.ledsmagazine.com/articles/iif/2012/12/iowa-government-building-slashes-electrical-load-70-with-acuity-lighting-and-controls.html>`_
+
 Performance Art
 ---------------
 
@@ -80,6 +96,8 @@ Music
     <iframe width="560" height="315" src="https://www.youtube.com/embed/kfVsfOSbJY0" frameborder="0" allowfullscreen></iframe>
 
 `Rebecca Black's Friday Song <https://en.wikipedia.org/wiki/Friday_(Rebecca_Black_song)>`_
+
+Is singing in the shower/car performance art?
 
 Why is Art Important?
 ---------------------
