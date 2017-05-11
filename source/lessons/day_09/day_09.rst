@@ -128,4 +128,4 @@ Why support art?
 Rendering
 ---------
 
-Go over chapter 1 and 2 of the `rendering videos <https://cgcookie.com/course/fundamentals-of-animation/>`_
+Go over chapter 1 and 2 of the `rendering videos <https://cgcookie.com/course/introduction-to-rendering/>`_
