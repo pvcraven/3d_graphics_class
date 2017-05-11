@@ -124,3 +124,8 @@ Why support art?
   * Why have a "National Endowment for the Arts"?
   * Why force people to support art they don't agree with?
   * If people want art, shouldn't they just buy it?
+
+Rendering
+---------
+
+Go over chapter 1 and 2 of the `rendering videos <https://cgcookie.com/course/fundamentals-of-animation/>`_
