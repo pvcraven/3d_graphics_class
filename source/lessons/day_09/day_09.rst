@@ -1,6 +1,8 @@
 Day 09 - Rendering / What is Art?
 =================================
 
+`What is Art? <https://en.wikipedia.org/wiki/Art>`_
+
 Fine Art
 --------
 
@@ -8,7 +10,7 @@ Why is this considered art? What makes it "good" art?
 
 The famous painting below is by Vincent van Gogh.
 He was not popular
-in his time and died poor and unappreciated. What changed?
+in his time and died poor and unappreciated. Why is this art?
 
 .. figure:: sunflowers.jpg
 
