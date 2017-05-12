@@ -86,5 +86,10 @@ For this section of your plan do the following:
 2. List two items for each person in your team that you plan on spending a
    lot of time doing detail work with.
 
+Submitting
+----------
+
 Before you submit: Check you spelling. Check the grammar. Make certain your
-plan is well organized and easy to read.
+plan is well organized and easy to read. Bullet points and lists are ok,
+but the entire thing shouldn't be lists. There should be some written discussion
+of what you are creating.
