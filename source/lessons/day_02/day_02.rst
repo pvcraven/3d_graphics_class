@@ -34,7 +34,7 @@ Required Tutorial Videos
 * `Lighting <https://cgcookie.com/course/fundamentals-of-lighting/>`_
 * `Modeling with Modifiers <https://cgcookie.com/course/modeling-with-modifiers/>`_
 * `Fundamentals of Animation <https://cgcookie.com/course/fundamentals-of-animation/>`_ Animation tools only, NOT principals of animation.
-* `Fundamentals of Rendering <https://cgcookie.com/course/fundamentals-of-animation/>`_ Chapter 1 and 2 only are required, but the others are good if you've got the time.
+* `Fundamentals of Rendering <https://cgcookie.com/course/introduction-to-rendering/>`_ Chapter 1 and 2 only are required, but the others are good if you've got the time.
 
 Secondary Priority Videos
 ^^^^^^^^^^^^^^^^^^^^^^^^^

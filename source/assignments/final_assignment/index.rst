@@ -41,7 +41,9 @@ Checklist for turning in work
 5.  Upload a document with all citations of work used
 6.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`
 7.  Upload reflection
-8.  Please do *not* zip files together, if at all possible.
+8.  Repeat the uploads you did for steps 3-7, but go into the "ECC Assessment"
+    part of the Scholar web page (hidden on the left side) and upload there too.
+9.  Please do *not* zip files together, if at all possible.
 
 Failure to upload all required files will result in no score for the assignment.
 
