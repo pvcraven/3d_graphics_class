@@ -24,7 +24,7 @@ in the videos.
    animation, so keep the cube materials simple. Don't add gloss or reflection.
 7. Use what you learned from the videos to animate the three cubes. You might
    need to change the frame count from the default.
-8. Also move the camera.
+8. Also move the camera. Don't forget this step, animate camera movement.
 9. Go to the "Render" settings
 10. Keep the default 50% of the 1920x1080 resolution. You can go lower if needed
     to speed things up.

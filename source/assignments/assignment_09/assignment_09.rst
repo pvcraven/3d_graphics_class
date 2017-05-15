@@ -11,3 +11,5 @@ http://vimeo.com/21144035
 2. What emotions are the artists trying to communicate?
 3. Technically, how do they do it? Look at shapes, colors, sound, and movement.
    In particular, talk about the lighting of this film.
+3. This is an essay. Please put your name, date, title at the top. Start
+   with an introduction, and have a thesis. Have a conclusion.

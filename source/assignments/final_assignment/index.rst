@@ -54,7 +54,7 @@ Presentation
 ^^^^^^^^^^^^
 
 Your team is required to present your project on the last day of class. You
-will earn 0 to 25 points for each person presenting. If you have a two person
+will earn 0 to 20 points for each person presenting. If you have a two person
 team, two people should present. Presentation scoring will work as follows:
 
 * Informative and captivating presentation about the work done.
@@ -67,7 +67,7 @@ Technical
 ^^^^^^^^^
 
 You may list up to two areas of technical achievement per person. Scoring will
-be from 0 to 25 points. At the very least, you will likely have entries for
+be from 0 to 20 points. At the very least, you will likely have entries for
 modeling and lighting your image. You might also have entries for animation.
 
 Using basic modeling skills to create a building and a car will only count as
@@ -93,7 +93,7 @@ Detail work
 ^^^^^^^^^^^
 
 You may list up to two areas that required a lot of detail work per person.
-Scoring will be from 0 to 25 points. Some examples:
+Scoring will be from 0 to 20 points. Some examples:
 
 * Spent hours and hours outside of class working on modeling a face.
 * Spent hours outside of class doing detail work on a model of a building.
@@ -111,10 +111,10 @@ You may list up to two areas of artistic application per person.
 * A poor attempt at a theme or message.
 * Nothing done, or description did not match content.
 
-Reflection
-^^^^^^^^^^
+Reflection and Bibliography
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Up to 25 points. If you are working in a group, this should be done
+Up to 20 points. If you are working in a group, this should be done
 together as a group.
 
 1. Explain how you expressed perspectives, concepts and/or ideas through
@@ -146,3 +146,43 @@ Creating a semi-realistic face could easily take you the entire time. Creating
 a body also could take several weeks. Rigging and moving the body could take
 quite a while. You can create cartoonish looking people in a reasonable amount
 of time.
+=======
+Citations
+---------
+
+Use citations as part of a bibliography. Cite use of downloaded object, or
+tutorials. Citing downloaded object, textures, or anything that isn't your
+work is required to avoid issues with plagiarism. I'd suggest citing
+tutorials, as that will likely help your grade.
+
+Use `MLA <https://owl.english.purdue.edu/owl/resource/747/01/>`_ as a template.
+
+I prefer URLs to be done as a link. See the example below.
+
+Be careful about auto-generated citations. Avoid repeated author/publishers.
+Avoid using "n.d." and "n.p." in cases where it isn't too hard to find a published
+year or publisher.
+
+Sample Bibliography
+-------------------
+
+Models
+^^^^^^
+
+Adriano. `Brazilian Bar <https://www.blendswap.com/blends/view/23249>`_.
+BlendSwap. 26 Dec, 2011
+
+eva11dragon. `Husk Chair <https://www.blendswap.com/blends/view/72096>`_.
+BlendSwap. 16 Jan, 2014
+
+Textures
+^^^^^^^^
+
+`BrickLargeBlocks0039. <https://www.textures.com/download/bricklargeblocks0039/120003>`_
+textures.com. n.d.
+
+Tutorials
+^^^^^^^^^
+
+Proffitt, Kenan. `Create a TNT Crate Model in Blender <https://www.blendernation.com/2017/05/13/create-tnt-crate-model-blender/>`_
+Blender Nation. 13 May, 2017.
