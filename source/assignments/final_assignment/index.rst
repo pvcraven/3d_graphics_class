@@ -126,3 +126,23 @@ together as a group.
 Make sure your paper has an introduction. Your paper will also need a thesis.
 The thesis should just show that you are covering the three points above.
 
+Tips
+^^^^
+
+**Grass:** If you need grass in your scene, there are two ways to do it. If your camera
+is from far away, just throw an image of grass on a plane that represents the
+ground. This is easy to do, and fast for the computer to render.
+
+The other way is to follow the tutorials where it shows you how to model each
+individual blade of grass. This is slow, and takes a while to model. The computers
+we have don't handle that many blades of grass well. It takes a long time to
+render.
+
+If the grass isn't important, do it the first way. If grass is important, then
+model it the second way.
+
+**People:** Creating a person is difficult. Animating is even more difficult.
+Creating a semi-realistic face could easily take you the entire time. Creating
+a body also could take several weeks. Rigging and moving the body could take
+quite a while. You can create cartoonish looking people in a reasonable amount
+of time.
