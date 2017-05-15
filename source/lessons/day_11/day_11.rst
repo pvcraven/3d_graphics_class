@@ -4,8 +4,8 @@ Day 11 - Work on Project / Lumi
 Final Project
 -------------
 
-* Go over how to do citations.
-* Go over how to fill out final spreadsheet.
+* Go over how to do :ref:`_Final_Project_Citations` in the final project.
+* Go over how to fill out final spreadsheet grading breakdown.
 
 Lumi
 ----

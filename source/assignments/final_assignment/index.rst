@@ -146,7 +146,9 @@ Creating a semi-realistic face could easily take you the entire time. Creating
 a body also could take several weeks. Rigging and moving the body could take
 quite a while. You can create cartoonish looking people in a reasonable amount
 of time.
-=======
+
+.. _Final_Project_Citations:
+
 Citations
 ---------
 
