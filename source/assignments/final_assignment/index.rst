@@ -39,7 +39,8 @@ Checklist for turning in work
 3.  Upload all required ``.blend`` files
 4.  Upload all images or movies (links to YouTube, Vimeo, or similar are ok)
 5.  Upload a document with all citations of work used
-6.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`
+6.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
+    Spell check the spreadsheet before turning it in.
 7.  Upload reflection
 8.  Repeat the uploads you did for steps 3-7, but go into the "ECC Assessment"
     part of the Scholar web page (hidden on the left side) and upload there too.
