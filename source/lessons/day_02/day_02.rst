@@ -1,26 +1,57 @@
 Day 02 - Meshes
 ===============
 
-Reminders
----------
-
-* Two assignments due tomorrow.
-* I've added a PDF with May Term hours.
-* Reminder - Scholar grading issues.
+* ** Reminder:** Two assignments due tomorrow.
 * Yesterday we talked about an artist's ability to convey a message. Remember
   to take a look at **what** the message was, and then **how** it was conveyed.
 * Next we worked on videos that covered the basics of Blender and
-  covered the basics of Mesh modeling.
-* Blender is free and open-source. You can run it on your own computer without
+  covered the basics adding primitive shapes to a scene.
+* Blender is free and open-source. You can `download Blender <https://www.blender.org/download/>`_
+  run it on your own computer without
   paying for anything.
-* CG Cookie has a monthly subscription plan for the videos. The college is
-  covering the cost of your videos this month.
+
+
+Class Discussion
+----------------
+
+Rule of Thirds
+^^^^^^^^^^^^^^
+
+Talk more about the `Rule of Thirds`_.
+
+.. _Rule of Thirds: https://en.wikipedia.org/wiki/Rule_of_thirds
+
+Reusing Assets
+^^^^^^^^^^^^^^
+
+Talk about the following two images:
+
+.. figure:: 34807_1297991665_large.jpg
+
+  "`Somewhere in Japan <http://shotta.cgsociety.org/art/3ds-max-digital-fusion-photoshop-vray-zbrush-somewhere-in-japan-958529>`_" by Miguel Cruz
+
+.. figure:: 34807_1297992639_large.jpg
+
+  "`Somewhere in Japan Sunset Version <http://shotta.cgsociety.org/art/3ds-max-digital-fusion-photoshop-vray-zbrush-somewhere-in-japan-958534>`_" by Miguel Cruz
+
+Discuss the following points:
+
+* How does the mood change between the sunset and daytime photo?
+* What does the artist change in the scene to make things different? List them.
+* What items are the same, that might not first be obvious?
+* One of the things that a good 3D artist can do to be more effective is reuse
+  assets. You can see this in movies where movie sets and props are reused
+  in different movies. This is even easier with 3D graphics. Take some time
+  to list the different "assets" from this scene that the author could reuse
+  somewhere else.
+
+
 
 Learning Blender Plan
 ---------------------
 
 The idea is to spend a week and a half on learning Blender. Then switch to
-working on the project. Depending on your prior experience, you may be able to
+working on a final project. Depending on your prior experience, you may be able to
 more or less material than others. That's ok. But you do need to cover at
 least the core videos.
 
@@ -143,39 +174,6 @@ in a city.
 
 Modeling people or animals is hard. I suggest starting with inanimate objects.
 
-Class Discussion
-----------------
-
-Rule of Thirds
-^^^^^^^^^^^^^^
-
-Talk more about the `Rule of Thirds`_.
-
-.. _Rule of Thirds: https://en.wikipedia.org/wiki/Rule_of_thirds
-
-Reusing Assets
-^^^^^^^^^^^^^^
-
-Talk about the following two images:
-
-.. figure:: 34807_1297991665_large.jpg
-
-  "`Somewhere in Japan <http://shotta.cgsociety.org/art/3ds-max-digital-fusion-photoshop-vray-zbrush-somewhere-in-japan-958529>`_" by Miguel Cruz
-
-.. figure:: 34807_1297992639_large.jpg
-
-  "`Somewhere in Japan Sunset Version <http://shotta.cgsociety.org/art/3ds-max-digital-fusion-photoshop-vray-zbrush-somewhere-in-japan-958534>`_" by Miguel Cruz
-
-Discuss the following points:
-
-* How does the mood change between the sunset and daytime photo?
-* What does the artist change in the scene to make things different? List them.
-* What items are the same, that might not first be obvious?
-* One of the things that a good 3D artist can do to be more effective is reuse
-  assets. You can see this in movies where movie sets and props are reused
-  in different movies. This is even easier with 3D graphics. Take some time
-  to list the different "assets" from this scene that the author could reuse
-  somewhere else.
 
 Assignment 3
 ------------

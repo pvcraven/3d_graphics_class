@@ -3,34 +3,39 @@
 Assignment 1 - How Did The Artist Convey The Message?
 =====================================================
 
+.. image:: artist.svg
+    :width: 40%
+    :class: right-image
+
 Pick one of the following images that artists have posted on the
 CGSociety_ website.
 
 .. _CGSociety: http://www.cgsociety.org/
 
-* `Image 1 <http://features.cgsociety.org/newgallerycrits/g25/225/225_1299424868_medium.jpg>`_ by Dimitar Tzvetanov
-* `Image 2 <http://features.cgsociety.org/newgallerycrits/g05/361305/361305_1304092186_large.jpg>`_ by Vlad Konstantinov
-* `Image 3 <http://cgimg.s3.amazonaws.com/t/g73/531873/1270805_large.jpg>`_ by Gleb Alexandrov
-* `Image 4 <http://cgimg.s3.amazonaws.com/t/g71/565771/1287675_large.jpg>`_ by Nita Ravalji
-* `Image 5 <http://features.cgsociety.org/newgallerycrits/g78/133278/133278_1246086172_large.jpg>`_ by Andrew Price
+* `Image 1 <https://cgsociety.org/c/featured/i9la/chirstmas-empty-city>`_ by Korean artist "ggaburi"
+* `Image 2 <https://cgsociety.org/c/featured/2sn1/zohlof>`_ by Egyptian artist "momenelwan"
+* `Image 3 <https://cgsociety.org/c/featured/hwyt/frozen-land>`_ by Brazilian artist "Porto Alegre"
+* `Image 4 <https://cgsociety.org/c/featured/dfpr/sci-fi-environment-d>`_ by Nellie Norton
+* `Image 5 <https://cgsociety.org/c/editors-pick/u592/black-mamba>`_ by Ukrainian artist "Ant-Onix"
 
+Some of the pages have views of the same artwork. Just write about the first one.
 
 Create an MS Word document (or PDF)
 
-1. Put at the top your name.
+1. Put your name, the date, and a title at the top.
 2. Put which image number you picked.
 3. List three feelings, emotions, message, or other aspects that the image
    conveys. Make it easy for me to find your three items.
 4. Then for each item, list how the artist has gone about conveying that
    feeling/emotion/message/whatever.
 
-   * Lighting 
-   * Shapes 
-   * Camera angles 
-   * Position in the frame 
-   * Focus/depth of field 
-   * Color 
-   * Blur 
+   * Lighting
+   * Shapes
+   * Camera angles
+   * Position in the frame
+   * Focus/depth of field
+   * Color
+   * Blur
    * Reflectivity
    * Posture
    * Facial expression

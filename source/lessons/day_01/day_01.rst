@@ -1,12 +1,20 @@
 Day 01 - Introduction and Blender Basics
 ========================================
 
+.. image:: teachers.svg
+   :width: 100%
+
+
+Today we will introduce the course. Talk about communicating through art
+using the movie Sintel as an example. Finally we'll learn some technical skills
+in running Blender.
+
 Introduction
 ------------
 
 * Go over syllabus
 
-* This class uses a lot of video tutorials.
+* This class uses some video tutorials.
   Why are we using video tutorials?
 
   * You can easily stop and replay the video if you didn't catch where to click
@@ -25,17 +33,16 @@ Introduction
 * How much work is expected?
 
   * Be in class every day, all during the class time.
-  * Do not leave class early. It sometimes ok to relocate to the general lab
-    or the cs lab, but any time you do this please get permission first.
+  * Do not leave class early.
   * Plan to spend at least 1.5 hours per day learning and creating with 3D
     graphics outside of class. More if you want to get an A.
-  * We have enough materials to keep someone occupied for years learning
+  * There are enough materials to keep someone occupied for years learning
     Blender. There will be no problem finding enough material to learn.
 
 How did Sintel Use Art to Communicate?
 --------------------------------------
 
-* View `Sintel movie <http://www.sintel.org/>`_. Sintel was created with BLender
+* View `Sintel movie <http://www.sintel.org/>`_. Sintel was created with Blender
   back in 2011.
 * Examine video stills from movie. What is being conveyed? How?
 * What to look for:
@@ -83,25 +90,36 @@ How did Sintel Use Art to Communicate?
 
 .. image:: Picture15.png
 
+For :ref:`Assignment_01` I am looking for you to pick an image and do the same
+type of analysis. Look at the types of things we called out in the images, and
+write up what the artist's message was by using these cues.
+
+Beginning to Learning Blender
+-----------------------------
+
+.. image:: video.svg
+    :width: 30%
+    :class: right-image
+
 * Go over the :ref:`final_project` so you know where we are headed.
-* There will be a total of nine assignments before the final project.
-* We will be working through part of CG Cookie's `Introduction to Blender`_ flow.
+* There will be about nine assignments before the final project.
+* We will be working through part of CG Cookie's
+  `Learn Blender 2.8 and beyond <https://cgcookie.com/flow/learn-blender-2-8-your-complete-tutorial-guide>`_ flow.
 * Today:
 
-  * Work through `Blender Basics Course`_
-  * Work through `Mesh Modeling Fundamentals`_
-  * Make sure all video tutorials are done by start of next class
-  * Work on `Mesh Modeling Exercise 01`_
-  * Have extra time? Work more tutorials from the `Introduction to Blender`_ flow.
-    Some of these will be assigned, some will be optional.
-  * The quicker the tutorials are completed, the more time will be available
-    for creating a movie or graphic stills.
+  * Work through `Blender Basics Course <https://cgcookie.com/course/learn-blender-2-8-the-basics-tutorial>`_
+
+    * Starting with Chapter 2,
+      `Learning to navigate the Blender interface <https://cgcookie.com/lesson/introduction-to-blender-s-interface>`_
+    * Finish Chapter 3 "Begin working within 3D". Last video should be "Primitive Modeling Exercise"
 
 * Finish :ref:`Assignment_01` and :ref:`Assignment_02`. These are due Wednesday
   morning, but I suggest treating the assignments like they are due Tuesday
   morning.
+* Continue working on Chapter 4 "Taking it a step further with Mesh Modeling"
+  in the tutorial. Skip the "Mesh modeling exercise", we'll do something similar
+  tomorrow.
 
-.. _Introduction to Blender: https://cgcookie.com/flow/introduction-to-blender/
-.. _Blender Basics Course: https://cgcookie.com/course/blender-basics/
+.. _Introduction to Blender: https://cgcookie.com/flow/learn-blender-2-8-your-complete-tutorial-guide
 .. _Mesh Modeling Fundamentals: https://cgcookie.com/course/mesh-modeling-fundamentals/
 .. _Mesh Modeling Exercise 01: https://cgcookie.com/exercise/mesh-modeling-exercise-01/
