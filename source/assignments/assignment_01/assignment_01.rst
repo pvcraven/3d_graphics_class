@@ -50,7 +50,8 @@ topic sentences, and paragraphs. Do not give me a solid wall of text.
 
 Please review the
 `PIE Paragraph Structure <https://awc.ashford.edu/essay-dev-pie-paragraph.html>`_
-if needed.
+if needed. Paragraphs should average about five sentences. If you turn in just
+one long paragraph I won't read it.
 
 Here are some words people have gotten confused on in prior years:
 

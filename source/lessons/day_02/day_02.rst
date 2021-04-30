@@ -1,7 +1,7 @@
 Day 02 - Meshes
 ===============
 
-* ** Reminder:** Two assignments due tomorrow.
+* **Reminder:** Two assignments due tomorrow.
 * Yesterday we talked about an artist's ability to convey a message. Remember
   to take a look at **what** the message was, and then **how** it was conveyed.
 * Next we worked on videos that covered the basics of Blender and
@@ -49,6 +49,9 @@ Discuss the following points:
 
 Learning Blender Plan
 ---------------------
+
+https://cgcookie.com/course/build-and-animate-a-low-poly-rocket-in-blender-for-beginners
+
 
 The idea is to spend a week and a half on learning Blender. Then switch to
 working on a final project. Depending on your prior experience, you may be able to
