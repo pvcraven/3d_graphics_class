@@ -1,3 +1,5 @@
+
+
 Day 01 - Introduction and Blender Basics
 ========================================
 
@@ -38,6 +40,8 @@ Introduction
     graphics outside of class. More if you want to get an A.
   * There are enough materials to keep someone occupied for years learning
     Blender. There will be no problem finding enough material to learn.
+
+.. _sintel:
 
 How did Sintel Use Art to Communicate?
 --------------------------------------

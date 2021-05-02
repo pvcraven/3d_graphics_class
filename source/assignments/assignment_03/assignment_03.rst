@@ -1,26 +1,11 @@
 .. _Assignment_03:
 
-Assignment 3 - Back-Story
-=========================
+Assignment 3 - Mesh Modeling a Rocket
+=====================================
 
-Look at this image:
+.. image:: assignment_03.png
+    :width: 50%
 
-.. figure:: 68732_1279129309_large.jpg
-
-    Image by Marek Denko
-
-Write a back-story to the image. Don't tell me about the image, but
-spend some time telling me a story that the image is a part of.
-
-Open the image in a new tab or zoom in on it. Don't miss seeing the woman
-in the background.
-
-Please include:
-
-* Name
-* Title
-* At least a 2/3 page back-story to the image.
-
-Use paragraphs. Use proper grammar and spelling.
-
-Open the image in a new tab, or otherwise zoom in so you can see all the detail.
+Watch :ref:`building_a_rocket`. Follow that tutorial.
+Feel free to edit the colors a bit, take some freedom with a bit of the modeling.
+Upload your resulting .blend file to Moodle.
