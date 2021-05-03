@@ -1,11 +1,25 @@
-Day 02 - Mesh Editing
-=====================
+Day 2 - Mesh Modeling Introduction
+==================================
+
+.. image:: rocket.png
+    :width: 35%
+    :class: right-image
 
 Today we'll be looking at the "rule of thirds",
-and work through video lessons that get us started in mesh modeling.
+and work through video lessons that get us started in mesh modeling
+by creating a rocket.
 
-:ref:`Assignment_01` and :ref:`Assignment_02` are due tomorrow. A new
-:ref:`Assignment_03` is due Wednesday.
+Due tomorrow:
+
+* :ref:`Assignment_01`
+* :ref:`Assignment_02`
+
+A new assignment will be due Wednesday:
+
+:ref:`Assignment_03`
+
+We will spend tomorrow on additional lessons in mesh modeling and another
+mesh modeling assignment.
 
 Rule of Thirds
 --------------
@@ -63,6 +77,12 @@ These were make width Blender 2.8, the videos are fine with our Blender 2.9.
 * `Building the Environment <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c75ffdb-d857-4640-842f-ad1c01522d08>`_
   (At one point, you use a Subdivision modifier in this tutorial. It is necessary to turn off optimal modifier.)
 
+
+Have extra time? Really into doing 3D? Here are some extra things you can work
+on. (They don't count towards the grade, but are great for learning more.)
+
+* `Animating the Rocket <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e6511b7-7e50-4f1d-b3ec-ad1d01281e88>`_
+* `Simulating Launch Smoke <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12cd1ad6-835c-473d-84a5-ad1d01295821>`_
 
 Assignment 3
 ------------

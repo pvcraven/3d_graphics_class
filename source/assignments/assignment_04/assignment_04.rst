@@ -24,3 +24,4 @@ Please include:
 Use paragraphs. Use proper grammar and spelling.
 
 Open the image in a new tab, or otherwise zoom in so you can see all the detail.
+There's some stuff hidden in it.

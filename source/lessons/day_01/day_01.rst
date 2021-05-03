@@ -1,6 +1,6 @@
 
 
-Day 01 - Introduction and Blender Basics
+Day 1 - Introduction and Blender Basics
 ========================================
 
 .. image:: teachers.svg
