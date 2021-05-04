@@ -82,7 +82,7 @@ Have extra time? Really into doing 3D? Here are some extra things you can work
 on. (They don't count towards the grade, but are great for learning more.)
 
 * `Animating the Rocket <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e6511b7-7e50-4f1d-b3ec-ad1d01281e88>`_
-* `Simulating Launch Smoke <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12cd1ad6-835c-473d-84a5-ad1d01295821>`_
+* `Simulating Launch Smoke <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c466d109-e059-438a-aba7-ad1e015946d3>`_
 
 Assignment 3
 ------------
