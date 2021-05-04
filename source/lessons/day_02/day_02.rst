@@ -73,7 +73,7 @@ These were make width Blender 2.8, the videos are fine with our Blender 2.9.
 * `Modeling the Rocket <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=936bad6f-6dc4-43d2-b919-ad1c01524550>`_
 * `Adding Thrusters and Fins <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5999839-e8cc-4ae6-b166-ad1c01522ca1>`_
 * `Adding Color to our Rocket <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17935274-ba14-40c2-a6a3-ad1c015283ca>`_
-* `Modeling the Launch Pad <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=936bad6f-6dc4-43d2-b919-ad1c01524550>`_
+* `Modeling the Launch Pad <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dbcd729-9292-418c-9035-ad1c01522ccd>`_
 * `Building the Environment <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c75ffdb-d857-4640-842f-ad1c01522d08>`_
   (At one point, you use a Subdivision modifier in this tutorial. It is necessary to turn off optimal modifier.)
 
