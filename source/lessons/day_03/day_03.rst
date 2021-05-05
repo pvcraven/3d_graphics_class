@@ -7,7 +7,6 @@ about color theory.
 **Reminder:**
 
 * :ref:`Assignment_03` is due tomorrow
-* :ref:`Assignment_04` is due Thursday
 
 Color Theory
 ------------
@@ -28,17 +27,15 @@ Before we talk about color, let's talk about
 .. _Adobe Kuler: https://color.adobe.com/create/color-wheel/
 .. _color theory: http://www.worqx.com/color/index.htm
 
-Backstory
----------
-
-Take a look at `this image <https://cgsociety.org/c/featured/3n0q/beyond-the-valley>`_.
-Brainstorm some ideas on what the backstory could be here. What happened
-before this image, to bring it about?
-
 Blender Technical
 -----------------
 
-What is an n-gon?
+Polygons:
+
+* What is a triangle?
+* A quad?
+* An n-gon?
+* Tracking polygon/vertex count
 
 Some of the videos uses a chair. To follow along,
 `download the chair here <../../_static/chair.zip>`_ and open in Blender.
@@ -85,12 +82,16 @@ enjoying learning 3D, I've left them in as optional.
 * `Parenting (9 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0debe1a-3796-437e-a63c-ad1d015ed80b>`_
 * `Subdivision Surfaces (9 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=02801973-b375-4615-a2e1-ad1d015ef343>`_
 
-Practice Assignment
-^^^^^^^^^^^^^^^^^^^
+.. _model-bedroom:
 
-This is an 'assignment' that isn't turned in and graded. You'll need the skills
+Modeling a Low Poly Room
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+This is an 'assignment' that isn't graded. You'll need the skills
 in a later assignment, so there's no need for the grading now.
 But it is necessary to put your new skills to use so that you've learned them
 in practice. Please work on this in-class.
+
+(There is a place you can upload it on Moodle to show it off.)
 
 * `Modeling a Low Poly Room <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58c02b24-4b02-43c9-b982-ad1d0159e0d7>`_
