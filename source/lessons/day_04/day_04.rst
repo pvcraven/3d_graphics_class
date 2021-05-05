@@ -70,6 +70,8 @@ Required videos and the artistic use of light
 Materials in Blender
 --------------------
 
+`Download the shader totem used in the videos <../../_static/shader_totem.zip>`_.
+
 * `How Shaders Manipulate Light <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2e81a09-e889-42fc-b8d1-ad1f0011cc2f>`_
 * `Creating Materials in Blender <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc9ef6fc-ef8c-4896-86d9-ad1f0011bf6d>`_
 * `Assigning Material Slots to Objects and Faces <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbb04577-350a-4649-9b4e-ad1f0011bf3d>`_
