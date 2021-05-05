@@ -1,5 +1,5 @@
-Day 4 - Lighting / Backstory
-============================
+Day 4 - Lighting / Materials / Backstory
+========================================
 
 Two main goals for today. First, talk about art telling a story. Second,
 learn about lighting and art.
