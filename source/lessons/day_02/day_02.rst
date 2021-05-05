@@ -75,7 +75,7 @@ These were make width Blender 2.8, the videos are fine with our Blender 2.9.
 * `Adding Color to our Rocket <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17935274-ba14-40c2-a6a3-ad1c015283ca>`_
 * `Modeling the Launch Pad <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dbcd729-9292-418c-9035-ad1c01522ccd>`_
 * `Building the Environment <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c75ffdb-d857-4640-842f-ad1c01522d08>`_
-  (At one point, you use a Subdivision modifier in this tutorial. It is necessary to turn off optimal modifier.)
+  (At one point, you use a Subdivision modifier in this tutorial. It is necessary to turn off optimal modifier. If when you extrude, your landing pad slopes down instead of staying level, select 'median point' instead of '3D cursor' at the top. Ask the instructor where this option is.)
 
 
 Have extra time? Really into doing 3D? Here are some extra things you can work
