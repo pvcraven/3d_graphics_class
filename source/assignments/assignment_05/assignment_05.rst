@@ -1,13 +1,14 @@
 .. _Assignment_05:
 
-Assignment 5 - Modifiers
-========================
+Assignment 5 - Low Poly Bedroom
+===============================
 
-Complete the `Modeling a Wheel <https://cgcookie.com/exercise/model-a-wheel/>`_
-exercise from the videos.
+For this assignment:
 
-Turn in a rendered image and a ``.blend`` file. Please do not "zip" anything.
+* Practice mesh modeling skills by creating a low-poly bedroom
+* Practice lighting skills by lighting the bedroom
+* Practice your material skills by assigning materials to the items in the bedroom
+* Practice UV skills by unwrapping and painting something
 
-To render the image you'll
-likely need to spend a bit of time figuring out how to put the wheel in front
-of the camera. You don't need to add textures.
+Upload your resulting blend file here. Upload the main blend file, not something
+that ends in ``.blend1``.
