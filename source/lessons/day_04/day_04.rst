@@ -38,9 +38,11 @@ to fit with an image.
 Eevee vs Cycles
 ---------------
 
-`Download these files <../../_static/fundamentals-of-lighting_source-files.zip>`_.
+Take the default scene. Add a large plane and put below the cube.
 
-In class, we'll talk about rendering engines. We'll talk about accuracy vs.
+Switch view to 'rendered'.
+
+Talk about rendering engines. We'll talk about accuracy vs.
 time in rendering speed. What the differences between Eevee and Cycles are,
 and how to switch blender between the two.
 
