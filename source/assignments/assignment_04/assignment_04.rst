@@ -6,7 +6,6 @@ Assignment 4 - Backstory
 Look at this image:
 
 .. figure:: 68732_1279129309_large.jpg
-    :target: 68732_1279129309_large.jpg
 
     Image by Marek Denko
 
