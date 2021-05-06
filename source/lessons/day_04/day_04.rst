@@ -38,7 +38,11 @@ to fit with an image.
 Eevee vs Cycles
 ---------------
 
-In class, we'll talk about rendering engines. We'll talk about accuracy vs.
+Take the default scene. Add a large plane and put below the cube.
+
+Switch view to 'rendered'.
+
+Talk about rendering engines. We'll talk about accuracy vs.
 time in rendering speed. What the differences between Eevee and Cycles are,
 and how to switch blender between the two.
 

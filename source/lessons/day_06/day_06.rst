@@ -1,5 +1,5 @@
-Day 06 - Modifiers
-==================
+Day 06 - Project Plan
+=====================
 
 Analyze
 -------

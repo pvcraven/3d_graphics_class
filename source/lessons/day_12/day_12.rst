@@ -1,4 +1,2 @@
-Day 12 - Work on Project
-========================
-
-Demo physics engine.
+Day 12 - Sculpting / Work on Project
+====================================

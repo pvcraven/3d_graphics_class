@@ -1,4 +1,4 @@
-Day 13 - Work on Project
-========================
+Day 13 - Rigging / Work on Project
+==================================
 
 

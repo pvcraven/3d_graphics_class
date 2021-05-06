@@ -3,7 +3,7 @@ Day 5 - Textures
 
 We will be covering textures in Blender next. I'll do it live in-class.
 If you missed class
-(track, softballl, sick, whatever) here are some videos you can watch to get the
+(track, softball, sick, whatever) here are some videos you can watch to get the
 same info.
 
 Videos
