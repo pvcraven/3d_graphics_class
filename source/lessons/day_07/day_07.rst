@@ -1,5 +1,5 @@
-Day 07 - Project Plan
-=====================
+Day 07 - Modifiers
+==================
 
 Today we'll talk about Demo Reels, how to download and add models to your
 scene from other sources, and how to come up with a project plan.
