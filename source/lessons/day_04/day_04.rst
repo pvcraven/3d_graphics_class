@@ -38,6 +38,8 @@ to fit with an image.
 Eevee vs Cycles
 ---------------
 
+`Download these files <../../_static/fundamentals-of-lighting_source-files.zip>`_.
+
 In class, we'll talk about rendering engines. We'll talk about accuracy vs.
 time in rendering speed. What the differences between Eevee and Cycles are,
 and how to switch blender between the two.
