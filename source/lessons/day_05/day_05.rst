@@ -9,7 +9,7 @@ same info.
 Videos
 ------
 
-* `Common problems with extrude <https://youtu.be/V4PG30MjVwM?`_
+* `Common problems with extrude <https://youtu.be/V4PG30MjVwM?>`_
 * `Splitting the screen and changing render engines <https://youtu.be/EbZ7Jv_Gxls>`_
 * `UV Unwrap in Blender <https://youtu.be/kmBAsk_8k2g>`_
 * `Packing textures in Blender <https://youtu.be/iK7OB49jHTU>`_
