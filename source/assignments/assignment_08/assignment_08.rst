@@ -3,6 +3,9 @@
 Assignment 8 - What is Art?
 ===========================
 
+*This section hasn't been updated for 2021 yet.*
+
+
 Upload a one to two page double-spaced essay covering the following question:
 
 "What is Art?""

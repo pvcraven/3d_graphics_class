@@ -1,8 +1,7 @@
-Day 07 - Modifiers
-==================
+Day 7 - Animation
+=================
 
-Today we'll talk about Demo Reels, how to download and add models to your
-scene from other sources, and how to come up with a project plan.
+Today we'll talk about Demo Reels, how to do simple animation.
 
 Demo Reels
 ----------
@@ -26,27 +25,19 @@ Here are some demo reels from companies:
 * `Rise Visual Effects Studios <http://www.risefx.com/index.php?menu=work_show>`_
 * `Cube Creative <http://www.cgmeetup.net/home/cube-creative-demo-reel-2017/>`_
 
-Importing Objects
------------------
+Animation
+---------
 
-* Create a new file.
-* Put down a plane for a floor
-* Download :download:`pcraven_stapler.blend<pcraven_stapler.blend>`
-  (Note, MS Edge might want to add a ``.htm`` at the end. Chrome doesn't have
-  this issue. If you download with Edge, you'll need to change the extension,
-  which can be a bit complex if you aren't viewing extensions by default.)
-* Download :download:`pcraven_wood_chair3.blend<pcraven_wood_chair3.blend>`
-* See how to append them.
-* Look at:
+.. raw:: html
 
-  * `Blend Swap`_
-  * `Sketchfab`_
-  * `Turbosquid <https://www.turbosquid.com/Search/3D-Models/free/blend>`_
+   <video controls style='width: 80%;'>
+    <source src="../../_static/snow_people.mp4"  type='video/mp4'>
+   </video>
 
-.. _Blend Swap: https://www.blendswap.com/
-.. _Sketchfab: https://sketchfab.com/
+Show how to do basic animation in class.
 
-Talk About The Project Plan
----------------------------
+HDRI
+----
 
-Go over :ref:`Assignment_06`.
+* `Video how to do HDRI <https://www.youtube.com/watch?v=6VBkj_I-ONk>`_.
+* `Site to get HDRI images <https://hdrihaven.com/>`_.

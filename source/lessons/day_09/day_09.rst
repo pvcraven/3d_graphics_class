@@ -1,6 +1,9 @@
 Day 09 - Rendering / What is Art?
 =================================
 
+*This section hasn't been updated for 2021 yet.*
+
+
 `What is Art? <https://en.wikipedia.org/wiki/Art>`_
 
 Fine Art

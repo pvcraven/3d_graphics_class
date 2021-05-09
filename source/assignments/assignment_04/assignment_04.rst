@@ -20,8 +20,8 @@ Please include:
 * Name
 * Title
 * At least a 2/3 page back-story to the image.
+* Double-space.
+* Use paragraphs. If you only have one or two paragraphs, you aren't using enough.
+* Proof grammar/spelling.
+* Write this as a story, not observations with possible explanations.
 
-Use paragraphs. Use proper grammar and spelling.
-
-Open the image in a new tab, or otherwise zoom in so you can see all the detail.
-There's some stuff hidden in it.

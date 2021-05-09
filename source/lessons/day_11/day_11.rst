@@ -1,6 +1,9 @@
 Day 11 - Work on Project / Lumi
 ===============================
 
+*This section hasn't been updated for 2021 yet.*
+
+
 Final Project
 -------------
 

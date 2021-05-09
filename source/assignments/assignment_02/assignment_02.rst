@@ -3,7 +3,7 @@
 Assignment 2 - Primitive Modeling
 =================================
 
-.. figure:: assignment_2.png
+.. figure:: 1.png
    :width: 100%
 
    Example of Assignment 2
@@ -19,3 +19,40 @@ Assignment 2 - Primitive Modeling
 
   If you are looking for more than a "C", make sure to spend time adding detail
   to your model.
+
+.. image:: 2.png
+   :width: 100%
+
+.. image:: 3.png
+   :width: 100%
+
+.. image:: 4.png
+   :width: 100%
+
+.. image:: 5.png
+   :width: 100%
+
+.. image:: 6.png
+   :width: 100%
+
+.. image:: 7.png
+   :width: 100%
+
+.. image:: 8.png
+   :width: 100%
+
+.. image:: 9.png
+   :width: 100%
+
+.. image:: 10.png
+   :width: 100%
+
+.. image:: 11.png
+   :width: 100%
+
+.. image:: 12.png
+   :width: 100%
+
+.. image:: 13.png
+   :width: 100%
+

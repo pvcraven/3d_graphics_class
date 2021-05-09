@@ -3,8 +3,9 @@
 Assignment 6 - Final Project Plan
 =================================
 
-Final Project Plan
-------------------
+.. image:: person_cat.svg
+    :width: 30%
+    :class: right-image
 
 For this assignment you will put together a plan for your final project. You
 can feel free to change your plan later as you work on your project. I don't
@@ -23,8 +24,12 @@ and not given a score, or have a significantly reduced score.
 
 Your project plan will be divided into three sections, described below.
 
-Artistic Expression
--------------------
+Section 1: Artistic Expression
+------------------------------
+
+.. image:: artist.svg
+    :width: 30%
+    :class: right-image
 
 What is the idea behind your project? What is your artist's message?
 
@@ -38,13 +43,16 @@ For example, if you are planning on creating suspense, that would be a goal.
 You might plan on accomplishing that feeling by using lighting that creates
 long shadows and adding suspenseful music to your video.
 
-Technical
----------
+Section 2: Technical
+--------------------
 
 Now is the time to think about how you plan on technically
 accomplishing your artistic goals. Take some time think about what you've
-already learned and know how to do. Look at Blender Guru, Blender Cookie,
-and see what other tutorials are out there. Figure out which ones might apply
+already learned and know how to do. Look at tutorial sources like
+`Blender Guru <https://www.blenderguru.com/>`_,
+`Blender Cookie <https://cgcookie.com/learn-blender>`_,
+`CG Geek <https://www.youtube.com/channel/UCG8AxMVa6eutIGxrdnDxWpQ>`_ and more.
+Figure out which ones might apply
 to your artistic goals. Looking at the tutorials available might produce ideas
 for artistic goals.
 
@@ -59,8 +67,15 @@ For this section of your plan:
 2. List any tutorials or resources you plan on using to learn how to accomplish
    those goals.
 
-Project Plan
-------------
+Think if you might want to create a still image, a scene with a moving camera,
+or simply a still image.
+
+Section 3: Project Plan
+-----------------------
+
+.. image:: plan.svg
+    :width: 35%
+    :class: right-image
 
 There will be two weeks to work on your project. Create a project plan for
 what you will do during these two weeks.

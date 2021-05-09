@@ -3,6 +3,9 @@
 Assignment 9 - Lumi
 ===================
 
+*This section hasn't been updated for 2021 yet.*
+
+
 Watch Lumi:
 
 http://vimeo.com/21144035

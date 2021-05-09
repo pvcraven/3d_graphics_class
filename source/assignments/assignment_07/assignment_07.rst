@@ -3,9 +3,14 @@
 Assignment 7 - Animation
 ========================
 
+*This section hasn't been updated for 2021 yet.*
+
+
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HPhPYATdlXw" frameborder="0" allowfullscreen></iframe>
+   <video controls style='width: 80%;'>
+    <source src="../../_static/snow_people.mp4"  type='video/mp4'>
+   </video>
 
 Watch the "animation tools" portion of the `Fundamentals of Animation`_. Again,
 you don't have to watch the "animation principles" part.
