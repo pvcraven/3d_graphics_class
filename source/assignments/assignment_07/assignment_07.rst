@@ -3,7 +3,7 @@
 Assignment 7 - Animation
 ========================
 
-*This section hasn't been updated for 2021 yet.*
+Your goal is to create an animation like this:
 
 
 .. raw:: html
@@ -12,36 +12,20 @@ Assignment 7 - Animation
     <source src="../../_static/snow_people.mp4"  type='video/mp4'>
    </video>
 
-Watch the "animation tools" portion of the `Fundamentals of Animation`_. Again,
-you don't have to watch the "animation principles" part.
+Your video should have:
 
-.. _Fundamentals of Animation: https://cgcookie.com/course/fundamentals-of-animation/
+* Create some kind of ground.
+* Create a simple object. Such as a simple car, snow person, airplane,
+  stick-figure dog, or anything incredibly easy to model so that you aren't
+  spending all your time modeling.
+* Add least three objects to your scene. You can create three copies of the object,
+  that's ok. You might color them differently so  that you've got a bit of
+  variety.
+* Animate the three objects.
+* Also animate the camera.
 
-This assignment is to see if you know how to do the basics of animation taught
-in the videos.
+Optional:
 
-1. Start off with a blank Blender file.
-2. Choose the "cycles" or use the default "blender render" engine.
-3. Add a floor to your scene.
-4. Light the scene a bit better.
-5. Add three cubes to the scene.
-6. Give the cubes different colors. Leave the floor white. I'm grading the
-   animation, so keep the cube materials simple. Don't add gloss or reflection.
-7. Use what you learned from the videos to animate the three cubes. You might
-   need to change the frame count from the default.
-8. Also move the camera. Don't forget this step, animate camera movement.
-9. Go to the "Render" settings
-10. Keep the default 50% of the 1920x1080 resolution. You can go lower if needed
-    to speed things up.
-11. Change output type from PNG to "H.264"
-12. Select an output folder, and (optionally) a name.
-13. If you are using cycles, try taking the "Render" sample count down to 16 to make it
-    render fast enough. You might need even lower depending on your computer
-    and the frame count.
-14. Select "Render image" to make sure it looks right.
-15. Select "Render animation"
-16. Be bored while it renders. If it looks like it will take to long, lower
-    the resolution and samples.
-17. Upload and turn in the movie and the Blender file.
+* Add an HDRI image.
 
-
+Turn in a .blend file and a movie with your animation.
