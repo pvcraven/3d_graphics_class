@@ -6,7 +6,7 @@ Assignment 2 - Primitive Modeling
 .. figure:: 1.png
    :width: 100%
 
-   Example of Assignment 2
+   Model by Taylor Brommel, 2021
 
 * Name your file ``primitive_modeling.blend``
 * Complete the
@@ -20,39 +20,62 @@ Assignment 2 - Primitive Modeling
   If you are looking for more than a "C", make sure to spend time adding detail
   to your model.
 
-.. image:: 2.png
+.. figure:: 2.png
    :width: 100%
 
-.. image:: 3.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 3.png
    :width: 100%
 
-.. image:: 4.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 4.png
    :width: 100%
 
-.. image:: 5.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 5.png
    :width: 100%
 
-.. image:: 6.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 6.png
    :width: 100%
 
-.. image:: 7.png
+   Model by Kole Hicok, 2021
+
+.. figure:: 7.png
    :width: 100%
 
-.. image:: 8.png
+   Model by Jeffery Roberts, 2021
+
+.. figure:: 8.png
    :width: 100%
 
-.. image:: 9.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 9.png
    :width: 100%
 
-.. image:: 10.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 10.png
    :width: 100%
 
-.. image:: 11.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 11.png
    :width: 100%
 
-.. image:: 12.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 12.png
    :width: 100%
 
-.. image:: 13.png
+   Model by a CIS 160 student, 2021
+
+.. figure:: 13.png
    :width: 100%
 
+   Model by a CIS 160 student, 2021
