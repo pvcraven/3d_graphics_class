@@ -169,26 +169,51 @@ Be careful about auto-generated citations. Avoid repeated author/publishers.
 Avoid using "n.d." and "n.p." in cases where it isn't too hard to find a published
 year or publisher.
 
-Sample Bibliography
--------------------
+Bibliography for Sample Project
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+These are the resources used in creating Sample Project.
 
 Models
-^^^^^^
+~~~~~~
 
-Adriano. `Brazilian Bar <https://www.blendswap.com/blends/view/23249>`_.
-BlendSwap. 26 Dec, 2011
+Slobang.
+"Office Desk With Drawers"
+*Blendswap.com*, March 14, 2021,
+www.blendswap.com/blend/27597.
+Accessed 11 May 2021.
 
-eva11dragon. `Husk Chair <https://www.blendswap.com/blends/view/72096>`_.
-BlendSwap. 16 Jan, 2014
+
+drThunderbuckle.
+"Lamp and desk"
+*Blendswap.com*, February 10, 2020,
+www.blendswap.com/blend/24404.
+Accessed 11 May 2021.
+
+
 
 Textures
-^^^^^^^^
+~~~~~~~~
 
-`BrickLargeBlocks0039. <https://www.textures.com/download/bricklargeblocks0039/120003>`_
+textures.com.
+"BrickLargeBlocRks0039"
+*textures.com*
+www.textures.com/download/bricklargeblocks0039/120003.
 textures.com. n.d.
+Accessed 11 May 2021.
+
+Tileable.co.
+"Cinder block bricks - design 4"
+*Tilable.co*
+n.d.
+Accessed 11 May 2021.
+
 
 Tutorials
-^^^^^^^^^
+~~~~~~~~~
 
-Proffitt, Kenan. `Create a TNT Crate Model in Blender <https://www.blendernation.com/2017/05/13/create-tnt-crate-model-blender/>`_
+Proffitt, Kenan.
+"Create a TNT Crate Model in Blender"
+www.blendernation.com/2017/05/13/create-tnt-crate-model-blender
 Blender Nation. 13 May, 2017.
+Accessed 11 May 2021.
