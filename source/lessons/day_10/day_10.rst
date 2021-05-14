@@ -19,6 +19,11 @@ to get you started:
 * `Wikipedia <https://en.wikipedia.org/wiki/What_Is_Art%3F>`_
 * `Mental Floss <http://mentalfloss.com/article/57501/27-responses-question-what-art>`_
 
-Think, at what point do things in the following categories become art?
+Think:
 
-What about controversial art? Is it still art? If it offends, is it still ok?
+* What categories of things are considered art?
+* At what point does something become art?
+* How important is it to create in art?
+* What about controversial art? Is it still art? If it offends, is it still ok?
+* How important is art to you personally?
+* Is commercial art still art?
