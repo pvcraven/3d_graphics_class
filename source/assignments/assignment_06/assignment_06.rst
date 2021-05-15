@@ -108,3 +108,7 @@ Before you submit: Check you spelling. Check the grammar. Make certain your
 plan is well organized and easy to read. Bullet points and lists are ok,
 but the entire thing shouldn't be lists. There should be some written discussion
 of what you are creating.
+
+**Double-check:** Make sure you have name(s), date, and title on top.
+That you clearly explain each artistic message, and how you are going to
+deliver it.

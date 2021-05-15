@@ -21,11 +21,24 @@ Your video should have:
 * Add least three objects to your scene. You can create three copies of the object,
   that's ok. You might color them differently so  that you've got a bit of
   variety.
-* Animate the three objects.
-* Also animate the camera.
+* Animate the three objects. One of which can be the camera.
 
 Optional:
 
-* Add an HDRI image.
+* Add an HDRI image. Do not pick an HDRI bigger than 5 MB, or you won't be
+  able to upload your submission.
 
-Turn in a .blend file and a movie with your animation.
+Prior Submissions
+-----------------
+
+.. raw:: html
+
+    <iframe width="750" height="500" src="https://www.youtube.com/embed/0qC5T8daa2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Double-Check Your Turn In!
+--------------------------
+
+* Make sure three items are animated.
+* If you have an image, make sure to do File...External Data...Automatically Pack Into Blend
+* Upload your Blender file (not the ``.blend1`` file)
+* Upload your rendered movie
