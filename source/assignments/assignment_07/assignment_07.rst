@@ -28,6 +28,22 @@ Optional:
 * Add an HDRI image. Do not pick an HDRI bigger than 5 MB, or you won't be
   able to upload your submission.
 
+Double-Check Your Turn In!
+--------------------------
+
+.. image:: check.svg
+    :width: 20%
+    :class: right-image
+
+These are some spots where people have lost points. Double-check before turning
+in your assignment!
+
+* Make sure three items are animated.
+* If you have an image, make sure to do File...External Data...Automatically Pack Into Blend
+* Upload your Blender file (not the ``.blend1`` file)
+* Upload your rendered movie
+* If you use any external image, don't forget to cite it. See :ref:`citing`.
+
 Prior Submissions
 -----------------
 
@@ -35,10 +51,4 @@ Prior Submissions
 
     <iframe width="750" height="500" src="https://www.youtube.com/embed/0qC5T8daa2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Double-Check Your Turn In!
---------------------------
 
-* Make sure three items are animated.
-* If you have an image, make sure to do File...External Data...Automatically Pack Into Blend
-* Upload your Blender file (not the ``.blend1`` file)
-* Upload your rendered movie

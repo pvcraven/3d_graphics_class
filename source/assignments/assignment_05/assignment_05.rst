@@ -13,6 +13,8 @@ For this assignment:
 Upload your resulting blend file here. Upload the main blend file, not something
 that ends in ``.blend1``.
 
+If you use an image that you didn't create yourself, see :ref:`citing`.
+
 .. figure:: 1.png
 
     Model by Abby Bowers, 2021

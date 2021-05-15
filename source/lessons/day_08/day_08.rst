@@ -89,9 +89,10 @@ and scale the texture.
 .. image:: texture.png
    :width: 70%
 
+.. _citing:
 
-Citing
-------
+How to Cite Other's Work
+------------------------
 
 So, you are using downloaded HDRI files? Images? Textures? Models?
 Want to give credit to that awesome tutorial you found?
