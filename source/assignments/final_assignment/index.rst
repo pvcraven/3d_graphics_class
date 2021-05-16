@@ -3,8 +3,6 @@
 Final Project
 =============
 
-*This section hasn't been updated for 2021 yet.*
-
 
 .. raw:: html
 
@@ -39,8 +37,9 @@ Checklist for turning in work
 
 1.  Elect one person in your group to upload all the files
 2.  "Pack" all Blender files
-3.  Upload all required ``.blend`` files
-4.  Upload all images or movies (links to YouTube, Vimeo, or similar are ok)
+3.  Upload all required ``.blend`` files. Do not upload ``.blend1`` files. Those
+    are not the files you are looking for.
+4.  Upload all rendered images or movies (links to YouTube, Vimeo, or similar are ok)
 5.  Upload a document with all citations of work used
 6.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
     Spell check the spreadsheet before turning it in.
