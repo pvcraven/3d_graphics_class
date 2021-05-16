@@ -1,29 +1,23 @@
 Day 11 - What is Art?
 =====================
 
-*This section hasn't been updated for 2021 yet.*
 
-
-
-
-Day 10 - What is Art?
-=====================
-
-*This section hasn't been updated for 2021 yet.*
-
-
-
-
-`What is Art? <https://en.wikipedia.org/wiki/Art>`_
+* `What is Art? <https://en.wikipedia.org/wiki/Art>`_
+* `Mental Floss <http://mentalfloss.com/article/57501/27-responses-question-what-art>`_
 
 Fine Art
 --------
 
 Why is this considered art? What makes it "good" art?
 
-The famous painting below is by Vincent van Gogh.
+The famous painting
+"`Sunflowers <https://www.vangoghmuseum.nl/en/collection/s0031V1962>`_"
+below is by Vincent van Gogh.
 He was not popular
-in his time and died poor and unappreciated. Why is this art?
+in his time and died poor and unappreciated.
+`Now, he is considered to be one of the greatest painters of all time <https://www.britannica.com/biography/Vincent-van-Gogh>`_.
+Why is this art?
+What do you think the artist is trying to communicate?
 
 .. figure:: sunflowers.jpg
 
@@ -38,16 +32,19 @@ What makes art "good" or "bad"?
 .. figure:: hayden.jpg
 
     Hayden Jung, age 6 Holiday camping, pencil, crayon
-    `Winner of Art Gallary of South Wales contest
+    `Winner of Art Gallery of South Wales contest
     <https://www.artgallery.nsw.gov.au/members/current-members/kids-drawing-prize-2016/>`_
 
-Graphic design for commercial products. Is it art?
+Graphic design for commercial products. Is it art? If our message is to
+"Buy Cheerios" is that still art?
 
 .. figure:: cheerios.jpg
+    :width: 70%
 
     By General Mills, Fair use, `Wikipedia Commons <https://en.wikipedia.org/w/index.php?curid=87346499>`_
 
-Are cartoons art?
+Are cartoons art? From newspaper comics to graphic art novels?
+Do things need to be serious to be considered art?
 
 .. figure:: Peanuts_gang.png
 
@@ -64,8 +61,24 @@ How about this, is it art?
 
     Royal Langnickel, Paint By Numbers
 
+Is creating realistic looking paintings, drawings, or CG graphics art?
+If realism is the ultimate goal, wouldn't a photograph be the king of artists?
+(James McNeill Whistler)
+
+Decorative Art
+^^^^^^^^^^^^^^
+
+What do you decorate your room with? What does it communicate? Why is it important?
+
+* Flowers
+* Crafts
+* Posters
+
 Applied Art
 -----------
+
+* Architecture (Frank Lloyd Wright to a cookie-cutter house)
+* Design of things (chairs, lamps, etc.)
 
 Can architecture be art? Let's say that this is art. Why is it art?
 
@@ -74,6 +87,8 @@ Can architecture be art? Let's say that this is art. Why is it art?
     Austrailian Museum of the Applied Arts
 
 Is this also art? If it isn't, why not?
+What message does this office layout convey, as opposed to the other
+image?
 
 .. figure:: office.jpg
 
@@ -92,8 +107,22 @@ like the top image.
 
     `Award winning interior of IPERS building <http://www.ledsmagazine.com/articles/iif/2012/12/iowa-government-building-slashes-electrical-load-70-with-acuity-lighting-and-controls.html>`_
 
-Performance Art
----------------
+Both of the above images are award-winning designs. The bottom one is efficient.
+The top isn't.
+
+The Carver building atrium was very controversial when it was designed. It was
+a lot of wasted space. Was it worth doing? Is it art? What do you think of the
+Kent student center atrium?
+
+Visual/Performance Art
+----------------------
+
+* Theater (Acting can go from plays, Broadway, sitcoms, or even commercials)
+* Ballet
+* Poetry slams
+* Flash mobs?
+
+Does art need to be a physical thing? Why would we consider this to be art?
 
 .. raw:: html
 
@@ -102,9 +131,17 @@ Performance Art
 Music
 -----
 
-.. raw:: html
+* Classical music
+* Jazz
+* Rock music
+* Pop music (Auto-tune?)
+* Rap music
+* Country music
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4rQSJDLM8ZE" frameborder="0" allowfullscreen></iframe>
+Music is incredibly important to people. Why? Why is it important to you?
+
+This song was famous, mostly for all the wrong reasons. Would you consider
+it art? Why or why not?
 
 .. raw:: html
 
@@ -113,6 +150,8 @@ Music
 `Rebecca Black's Friday Song <https://en.wikipedia.org/wiki/Friday_(Rebecca_Black_song)>`_
 
 Is singing in the shower/car performance art?
+
+Why learn guitar or piano if you aren't going to play for other people?
 
 Why is Art Important?
 ---------------------
@@ -138,85 +177,12 @@ Why support art?
   * Why force people to support art they don't agree with?
   * If people want art, shouldn't they just buy it?
 
-Rendering
----------
-
-Go over chapter 1 and 2 of the `rendering videos <https://cgcookie.com/course/introduction-to-rendering/>`_
-
-
-Prep for Day 09
----------------
-
-Start thinking about the question, "What is Art?" Here are two sources
-to get you started:
-
-* `Wikipedia <https://en.wikipedia.org/wiki/What_Is_Art%3F>`_
-* `Mental Floss <http://mentalfloss.com/article/57501/27-responses-question-what-art>`_
-
-Think, at what point do things in the following categories become art?
-
-What about controversial art? Is it still art? If it offends, is it still ok?
-
-Fine Art
-^^^^^^^^
-
-Drawing, sculpting, printmaking
-
-* Cartoons (political cartoons, graphic novels, humor cartoons)
-* A first-grader's drawing
-* The design of a Cheerios box (or any other commercial-type work)
-* Graffiti
-* Penmanship
-
-Music
-^^^^^
-
-* Classical music
-* Rock music
-* Pop music (Auto-tune?)
-
-Visual/Performance Art
-^^^^^^^^^^^^^^^^^^^^^^
-
-* Theater (Acting can go from plays, Broadway, sitcoms, or even commercials)
-* Ballet
-* Poetry slams
-* Flash mobs?
-
-Applied Art
-^^^^^^^^^^^
-
-* Architecture (Frank Lloyd Wright to a cookie-cutter house)
-* Design of things (chairs, lamps, etc.)
-
-Decorative Art
-^^^^^^^^^^^^^^
-
-* Crafts
-
-Animation
----------
-
-Watch the "video tools" portion of the `Fundamentals of Animation`_ video series.
-You do not need to watch the "animation principles" portion of the video.
-
-Complete :ref:`Assignment_07`.
-
-.. _Fundamentals of Animation: https://cgcookie.com/course/fundamentals-of-animation/
-
-
+* How has the Internet changed everything?
 
 
 
 Final Project
 -------------
 
-* Go over how to do :ref:`Final_Project_Citations` in the final project.
 * Go over how to fill out final spreadsheet grading breakdown.
-
-Lumi
-----
-
-* Talk about what is expected for :ref:`Assignment_09`.
-* Show Lumi in class: http://vimeo.com/21144035
 
