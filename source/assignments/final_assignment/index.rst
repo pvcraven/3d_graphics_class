@@ -8,8 +8,11 @@ Final Project
 
     <iframe width="560" height="315" src="https://www.youtube.com/embed/_olEMqdFRvA?list=PLUjR0nhln8uYyeKiqWZVjeChDkW1aYMYd" frameborder="0" allowfullscreen></iframe>
 
-Goal
-----
+.. image:: art.svg
+    :width: 30%
+    :class: right-image
+
+The goal of this final project is to:
 
 * Create a 3D image, images, or movie with some kind of artistic theme to show
   of your artistic, technical, and detail skills.
