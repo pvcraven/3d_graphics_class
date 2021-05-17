@@ -24,5 +24,6 @@ be semi-reflective, so you can include  1st person if you want. It should includ
 * Paragraphs with a Purpose, Information, and Explanation (PIE)
 * Double-check that your paragraphs aren't longer that 1/3 of a page.
 * Conclusion
+* Bibliography in MLA format if you need to cite anything
 
 
