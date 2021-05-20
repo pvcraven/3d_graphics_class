@@ -128,6 +128,7 @@ together as a group.
 2. Reflect and think critically about your own work and other artistic works we
    have looked at in class.
 3. What is the value of the creative process?
+4. How would you like your work to be attributed? (Author names, anonymously, team name?)
 
 Make sure your paper has an introduction. Your paper will also need a thesis.
 The thesis should just show that you are covering the three points above.
