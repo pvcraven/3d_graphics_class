@@ -43,10 +43,10 @@ Checklist for turning in work
 3.  Upload all required ``.blend`` files. Do not upload ``.blend1`` files. Those
     are not the files you are looking for.
 4.  Upload all rendered images or movies (links to YouTube, Vimeo, or similar are ok)
-5.  Upload a document with all citations of work used
 6.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
     Spell check the spreadsheet before turning it in.
-7.  Upload reflection (one reflection for the whole group, not individual)
+5.  Upload a bibliography document with all citations of work used. See :ref:`Final_Project_Citations`.
+7.  Upload a reflection, one reflection for the whole group, not individual. Can be combined with the citations. See :ref:`reflection`.
 8.  Please do *not* zip files together, if at all possible.
 
 Failure to upload all required files will result in no score for the assignment.
@@ -115,8 +115,10 @@ You may list up to two areas of artistic application per person.
 * A poor attempt at a theme or message.
 * Nothing done, or description did not match content.
 
-Reflection and Bibliography
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _reflection:
+
+Reflection
+^^^^^^^^^^
 
 Up to 20 points. If you are working in a group, this should be done
 together as a group.
@@ -153,8 +155,8 @@ of time.
 
 .. _Final_Project_Citations:
 
-Citations
----------
+Citations / Bibliography
+------------------------
 
 Use citations as part of a bibliography. Cite use of downloaded object, or
 tutorials. Citing downloaded object, textures, or anything that isn't your
