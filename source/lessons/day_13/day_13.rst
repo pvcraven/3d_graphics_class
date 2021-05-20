@@ -1,5 +1,5 @@
-Day 13 - Rigging / Work on Project
-==================================
+Day 13 - Work on Project
+========================
 
-*This section hasn't been updated for 2021 yet.*
+A day to work on the project.
 
