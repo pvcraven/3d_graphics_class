@@ -43,9 +43,9 @@ Checklist for turning in work
 3.  Upload all required ``.blend`` files. Do not upload ``.blend1`` files. Those
     are not the files you are looking for.
 4.  Upload all rendered images or movies (links to YouTube, Vimeo, or similar are ok)
-6.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
+5.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
     Spell check the spreadsheet before turning it in.
-5.  Upload a bibliography document with all citations of work used. See :ref:`Final_Project_Citations`.
+6.  Upload a bibliography document with all citations of work used. See :ref:`Final_Project_Citations`.
 7.  Upload a reflection, one reflection for the whole group, not individual. Can be combined with the citations. See :ref:`reflection`.
 8.  Please do *not* zip files together, if at all possible.
 
@@ -132,27 +132,6 @@ together as a group.
 Make sure your paper has an introduction. Your paper will also need a thesis.
 The thesis should just show that you are covering the three points above.
 
-Tips
-^^^^
-
-**Grass:** If you need grass in your scene, there are two ways to do it. If your camera
-is from far away, just throw an image of grass on a plane that represents the
-ground. This is easy to do, and fast for the computer to render.
-
-The other way is to follow the tutorials where it shows you how to model each
-individual blade of grass. This is slow, and takes a while to model. The computers
-we have don't handle that many blades of grass well. It takes a long time to
-render.
-
-If the grass isn't important, do it the first way. If grass is important, then
-model it the second way.
-
-**People:** Creating a person is difficult. Animating is even more difficult.
-Creating a semi-realistic face could easily take you the entire time. Creating
-a body also could take several weeks. Rigging and moving the body could take
-quite a while. You can create cartoonish looking people in a reasonable amount
-of time.
-
 .. _Final_Project_Citations:
 
 Citations / Bibliography
@@ -219,3 +198,25 @@ Proffitt, Kenan.
 www.blendernation.com/2017/05/13/create-tnt-crate-model-blender
 Blender Nation. 13 May, 2017.
 Accessed 11 May 2021.
+
+Tips
+----
+
+**Grass:** If you need grass in your scene, there are two ways to do it. If your camera
+is from far away, just throw an image of grass on a plane that represents the
+ground. This is easy to do, and fast for the computer to render.
+
+The other way is to follow the tutorials where it shows you how to model each
+individual blade of grass. This is slow, and takes a while to model. The computers
+we have don't handle that many blades of grass well. It takes a long time to
+render.
+
+If the grass isn't important, do it the first way. If grass is important, then
+model it the second way.
+
+**People:** Creating a person is difficult. Animating is even more difficult.
+Creating a semi-realistic face could easily take you the entire time. Creating
+a body also could take several weeks. Rigging and moving the body could take
+quite a while. You can create cartoonish looking people in a reasonable amount
+of time.
+
