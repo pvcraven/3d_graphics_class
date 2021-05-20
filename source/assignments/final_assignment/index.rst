@@ -44,7 +44,9 @@ Checklist for turning in work
     are not the files you are looking for.
 4.  Upload all rendered images or movies (links to YouTube, Vimeo, or similar are ok)
 5.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
-    Spell check the spreadsheet before turning it in.
+    Spell check the spreadsheet before turning it in. Be specific. "Happy" won't get many points, but 
+    "I tried to convey a sense of happiness by using bright warm colors in the center of the image, and
+    smiling snow creatures." is exactly what I'm looking for.
 6.  Upload a bibliography document with all citations of work used. See :ref:`Final_Project_Citations`.
 7.  Upload a reflection, one reflection for the whole group, not individual. Can be combined with the citations. See :ref:`reflection`.
 8.  Please do *not* zip files together, if at all possible.
