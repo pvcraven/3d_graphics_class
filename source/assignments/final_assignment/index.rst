@@ -48,7 +48,7 @@ Checklist for turning in work
     "I tried to convey a sense of happiness by using bright warm colors in the center of the image, and
     smiling snow creatures." is exactly what I'm looking for.
 6.  Upload a bibliography document with all citations of work used. See :ref:`Final_Project_Citations`.
-7.  Upload a reflection, one reflection for the whole group, not individual. Can be combined with the citations. See :ref:`reflection`.
+7.  Upload a reflection, one reflection for the whole group, not individual. Can be combined with the bibliography/citations. See :ref:`reflection`.
 8.  Please do *not* zip files together, if at all possible.
 
 Failure to upload all required files will result in no score for the assignment.
