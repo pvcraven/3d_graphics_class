@@ -46,6 +46,11 @@ Checklist for turning in work
 5.  Upload a document with all citations of work used
 6.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
     Spell check the spreadsheet before turning it in.
+    Double-check that your artistic messages are clear. "Add materials to objects"
+    is *not* an artistic message. "Creating happiness by using bright colors, light, and friendly faces"
+    is an artistic message.
+
+
 7.  Upload reflection
 8.  Repeat the uploads you did for steps 3-7, but go into the "ECC Assessment"
     part of the Scholar web page (hidden on the left side) and upload there too.
