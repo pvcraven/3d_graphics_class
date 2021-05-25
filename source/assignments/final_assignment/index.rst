@@ -38,23 +38,26 @@ Directions
 Checklist for turning in work
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.  Elect one person in your group to upload all the files
-2.  "Pack" all Blender files
+1.  Elect one person, and only one person, in your group to upload all the files.
+2.  "Pack" all Blender files by selecting
+    File...External Data...Automatically Pack Into Blend.
 3.  Upload all required ``.blend`` files. Do not upload ``.blend1`` files. Those
-    are not the files you are looking for.
-4.  Upload all rendered images or movies (links to YouTube, Vimeo, or similar are ok)
-5.  Upload a document with all citations of work used
-6.  Upload rubric spreadsheet :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
-    Spell check the spreadsheet before turning it in.
-    Double-check that your artistic messages are clear. "Add materials to objects"
-    is *not* an artistic message. "Creating happiness by using bright colors, light, and friendly faces"
-    is an artistic message.
-
-
-7.  Upload reflection
-8.  Repeat the uploads you did for steps 3-7, but go into the "ECC Assessment"
-    part of the Scholar web page (hidden on the left side) and upload there too.
-9.  Please do *not* zip files together, if at all possible.
+    are not the files you are looking for. If it is too large, create a Word
+    or PDF with a OneDrive link for download.
+4.  Upload all rendered images or movies. Again, if too large use OneDrive.
+5.  Upload rubric spreadsheet
+    :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
+    Be specific.
+    "Happy" won't get many points, but "I tried to convey a sense of happiness
+    by using bright warm colors in the center of the image, and smiling snow
+    creatures" is exactly what I'm looking for.
+6.  Spell check the spreadsheet before turning it in. Ask if you can't find the
+    button for it.
+6.  Upload a bibliography document with all citations of work used.
+    See :ref:`Final_Project_Citations`.
+7.  Upload one reflection. If you are in a group, still upload only one reflection.
+    Can be combined with the bibliography/citations. See :ref:`reflection`.
+8.  Please do *not* zip files together, if at all possible.
 
 Failure to upload all required files will result in no score for the assignment.
 
@@ -122,8 +125,10 @@ You may list up to two areas of artistic application per person.
 * A poor attempt at a theme or message.
 * Nothing done, or description did not match content.
 
-Reflection and Bibliography
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. _reflection:
+
+Reflection
+^^^^^^^^^^
 
 Up to 20 points. If you are working in a group, this should be done
 together as a group.
@@ -133,35 +138,15 @@ together as a group.
 2. Reflect and think critically about your own work and other artistic works we
    have looked at in class.
 3. What is the value of the creative process?
+4. How would you like your work to be attributed? (Author names, anonymously, team name?)
 
 Make sure your paper has an introduction. Your paper will also need a thesis.
 The thesis should just show that you are covering the three points above.
 
-Tips
-^^^^
-
-**Grass:** If you need grass in your scene, there are two ways to do it. If your camera
-is from far away, just throw an image of grass on a plane that represents the
-ground. This is easy to do, and fast for the computer to render.
-
-The other way is to follow the tutorials where it shows you how to model each
-individual blade of grass. This is slow, and takes a while to model. The computers
-we have don't handle that many blades of grass well. It takes a long time to
-render.
-
-If the grass isn't important, do it the first way. If grass is important, then
-model it the second way.
-
-**People:** Creating a person is difficult. Animating is even more difficult.
-Creating a semi-realistic face could easily take you the entire time. Creating
-a body also could take several weeks. Rigging and moving the body could take
-quite a while. You can create cartoonish looking people in a reasonable amount
-of time.
-
 .. _Final_Project_Citations:
 
-Citations
----------
+Citations / Bibliography
+------------------------
 
 Use citations as part of a bibliography. Cite use of downloaded object, or
 tutorials. Citing downloaded object, textures, or anything that isn't your
@@ -224,3 +209,25 @@ Proffitt, Kenan.
 www.blendernation.com/2017/05/13/create-tnt-crate-model-blender
 Blender Nation. 13 May, 2017.
 Accessed 11 May 2021.
+
+Tips
+----
+
+**Grass:** If you need grass in your scene, there are two ways to do it. If your camera
+is from far away, just throw an image of grass on a plane that represents the
+ground. This is easy to do, and fast for the computer to render.
+
+The other way is to follow the tutorials where it shows you how to model each
+individual blade of grass. This is slow, and takes a while to model. The computers
+we have don't handle that many blades of grass well. It takes a long time to
+render.
+
+If the grass isn't important, do it the first way. If grass is important, then
+model it the second way.
+
+**People:** Creating a person is difficult. Animating is even more difficult.
+Creating a semi-realistic face could easily take you the entire time. Creating
+a body also could take several weeks. Rigging and moving the body could take
+quite a while. You can create cartoonish looking people in a reasonable amount
+of time.
+
