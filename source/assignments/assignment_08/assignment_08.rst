@@ -3,9 +3,10 @@
 Assignment 8 - What is Art?
 ===========================
 
-Upload a one (full page) to two page double-spaced essay covering the following question:
+Upload a one (full page) to two page double-spaced essay covering the following questions:
 
-"What is Art?""
+* "What is Art?"
+* What is the value of arts, and art institutions in human society? (Musical concerts, theater, literary publications, etc.)
 
 See `Wikipedia <https://en.wikipedia.org/wiki/What_Is_Art%3F>`_, `Mental Floss <http://mentalfloss.com/article/57501/27-responses-question-what-art>`_ and find your own sources elsewhere.
 
