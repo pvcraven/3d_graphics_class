@@ -24,13 +24,37 @@ Create an MS Word document (or PDF)
 
 1. Put your name, the date, and a title at the top.
 2. Put which image number you picked.
-3. List three feelings, emotions, message, or other aspects that the image
-   conveys. Make it easy for me to find your three items.
-4. Then for each item, list how the artist has gone about conveying that
-   feeling/emotion/message/whatever.
+3. List two **messages**, and two **aesthetic responses** that the image
+   communicates. Make it easy for me to find your four items.
+4. For each item, list how the artist has gone about conveying that
+   message, or aesthetic. I'm specifically interested in how these elements
+   are used:
+   
+   * color
+   * form
+   * line
+   * shape
+   * space
+   * texture
 
+   How these principals are used:
+
+   * scale
+   * proportion
+   * unity
+   * variety
+   * rhythm
+   * mass
+   * shape
+   * space
+   * balance
+   * volume
+   * perspective
+   * depth
+
+   And this
+   
    * Lighting
-   * Shapes
    * Camera angles
    * Position in the frame
    * Focus/depth of field
@@ -43,10 +67,13 @@ Create an MS Word document (or PDF)
    * Eyebrows
    * Mouth
 
-I'm looking for at least 3/4 of a page.
+5. The elements of art are color, form, line, shape, space, and texture. The principles of art are scale, proportion, unity, variety, rhythm, mass, shape, space, balance, volume, perspective, and depth.
+
+I'm looking for at least one full double spaced page.
 
 Spelling and grammar count. Do not forget about things like thesis statements,
 topic sentences, and paragraphs. Do not give me a solid wall of text.
+Seperate each question's response into its own paragraph.
 
 Please review the
 `PIE Paragraph Structure <https://awc.ashford.edu/essay-dev-pie-paragraph.html>`_
