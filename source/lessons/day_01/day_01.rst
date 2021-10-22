@@ -41,6 +41,52 @@ Introduction
   * There are enough materials to keep someone occupied for years learning
     Blender. There will be no problem finding enough material to learn.
 
+.. _principles:
+
+Principles and Elements of Art
+------------------------------
+
+(TBD: Get some books and read up on this. Put in some sample art. Create my own version of things like:)
+
+http://www.vwarthistory.com/elements-and-principles.html
+https://drawpaintacademy.com/principles-of-art/
+
+
+An artist can convey a **message** using visual cues. A limp can communicate a past
+injury for example.
+
+An artist can also convey an **aesthetic response**.
+An aesthetic response is a feeling.
+A photo of beautiful spring flowers can evoke a feeling of happiness and hope.
+A run-down cyber-punk cityscape can evoke a feeling of despair.
+
+We can communicate an aesthetic response based on certain **artistic elements** and **principles**.
+
+* Color
+
+  * What colors communicate what aesthetic?
+  * A color can be light or dark. How does that change things?
+  * A color can be bright and pure, or dull.
+
+* form
+* line
+* shape
+* space
+* texture/pattern/rhythm
+
+  * Texture - how do you think things would feel if you touched them? https://3dtextures.me/
+
+* scale
+* proportion
+* unity/variety
+* movement
+* mass
+* balance (symmetry, asymmetry, radial symmetry)
+* contrast (difference between objects)
+* volume
+* perspective (camera angles)
+* depth (focus/depth of field)
+
 .. _sintel:
 
 How did Sintel Use Art to Communicate?

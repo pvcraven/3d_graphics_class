@@ -9,7 +9,10 @@ Look at this image:
 
     Image by Marek Denko
 
-Write a back-story to the image. Don't tell me about the image, but
+First, briefly describe the **aesthetic** of this image. Explain at
+two principles of art used here.
+
+Second, write a back-story to the image. Don't tell me about the image, but
 spend some time telling me a story that the image is a part of.
 
 Open the image in a new tab or zoom in on it. Don't miss seeing the woman

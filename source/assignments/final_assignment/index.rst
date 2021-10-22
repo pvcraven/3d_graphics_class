@@ -53,11 +53,11 @@ Checklist for turning in work
     creatures" is exactly what I'm looking for.
 6.  Spell check the spreadsheet before turning it in. Ask if you can't find the
     button for it.
-6.  Upload a bibliography document with all citations of work used.
+7.  Upload a bibliography document with all citations of work used.
     See :ref:`Final_Project_Citations`.
-7.  Upload one reflection. If you are in a group, still upload only one reflection.
+8.  Upload one reflection. If you are in a group, still upload only one reflection.
     Can be combined with the bibliography/citations. See :ref:`reflection`.
-8.  Please do *not* zip files together, if at all possible.
+9.  Please do *not* zip files together, if at all possible.
 
 Failure to upload all required files will result in no score for the assignment.
 

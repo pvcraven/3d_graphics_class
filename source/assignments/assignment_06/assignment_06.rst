@@ -31,7 +31,8 @@ Section 1: Artistic Expression
     :width: 30%
     :class: right-image
 
-What is the idea behind your project? What is your artist's message?
+What is the idea behind your project? What is your artist's message? What is
+the aesthetic? What elements and principles will you use?
 
 For this section you need the following:
 
@@ -39,9 +40,13 @@ For this section you need the following:
 2. List two artistic goals for each person on your team, and how you plan on
    accomplishing them.
 
-For example, if you are planning on creating suspense, that would be a goal.
-You might plan on accomplishing that feeling by using lighting that creates
-long shadows and adding suspenseful music to your video.
+For example, if you are planning on creating a suspense aesthetic, that would be a messaging goal.
+You could accomplishing that feeling by using lighting that creates
+long shadows and adding suspenseful music to your video. You can write about
+the artistic elements of color and how you plan on choosing dark colors. By using the
+elements of shape, jagged shapes can make things seem dangerous. Images can have balance, or if
+you want suspense maybe we make t he image seem  unbalanced. Refer back to :ref:`principles` for other
+ideas.
 
 Section 2: Technical
 --------------------
