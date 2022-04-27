@@ -14,6 +14,8 @@ Assignment 2 - Primitive Modeling
   Use primitives, the ability to move them and scale the objects to create something of
   your own design.
 * Upload the resulting Blender file here.
+* In the comments, please state if it is ok to show your work here,
+  and if it is ok, how you'd like to be attributed.
 
 .. tip::
 

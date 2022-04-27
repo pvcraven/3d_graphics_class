@@ -164,17 +164,16 @@ Videos to Watch
     :class: right-image
 
 These are from the
-`Blender Basics Course <https://cgcookie.com/course/learn-blender-2-8-the-basics-tutorial>`_
+`Blender Basics Course <https://cgcookie.com/courses/blender-3-basics-intro-to-blender>`_
 Make sure you take your time and completely understand everything in these videos.
 You'll use it every day from here to the end of class.
 
-* `Learning to navigate the Blender interface (5 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39f5f6c6-a1c4-408b-92e8-ad1a00e9bfe8>`_
-* `Navigating the 3D Viewport (4 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cfdda918-7e30-4d1a-bc07-ad1a00e9bf83>`_
-* `Working with 3D Objects (4 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fb258d44-022e-464e-95a1-ad1a00edbcbc>`_
-* `Introduction to moving things around (1 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f8ea14df-0951-472b-b9d8-ad1a00edbcdd>`_
-* `Using Visual Transformation Tools (6 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3df4f478-2b40-41f1-8536-ad1a00edd23a>`_
-* `Using Hotkey Transformations (5 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=278d2446-4e78-4bbf-b497-ad1a00edcac6>`_
-* `Adding and Removing 3D Objects (5 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e43df503-5a4c-448d-8a6e-ad1a00ef189d>`_
+* `Intro to Blender and CG Cookie (9 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b11863bb-7e9a-43cf-a477-ae84010019b2>`_
+* `Navigating the 3D View (7 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=888230a4-610d-4233-baf1-ae840101ff13>`_
+* `Selecting Objects (6 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c539d2c0-fbd0-425f-9017-ae840101ffbd>`_
+* `Transforming Objects and Adjusting Operations (13 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5735e3c-129b-490b-9523-ae840101fed5>`_
+* `Adding, Deleting, and the 3D Cursor (11 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4d463b74-2faa-4aae-92de-ae8401020780>`_
+* `Local Space and Parenting (12 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c412facc-7b54-428d-b61a-ae840101ff46>`_
 * `Primitive Modeling Exercise (6 min) <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77c7c093-e062-47bf-950e-ad1a00edc844>`_
 
 Assignments
