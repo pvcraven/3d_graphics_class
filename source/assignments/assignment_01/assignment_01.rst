@@ -17,6 +17,7 @@ CGSociety_ website.
 * `Image 3 <https://cgsociety.org/c/featured/hwyt/frozen-land>`_ by Brazilian artist "Porto Alegre"
 * `Image 4 <https://cgsociety.org/c/featured/dfpr/sci-fi-environment-d>`_ by Nellie Norton
 * `Image 5 <https://cgsociety.org/c/editors-pick/u592/black-mamba>`_ by Ukrainian artist "Ant-Onix"
+* `Image 6 <https://cgsociety.org/c/featured/22bh/the-answer-is-in-the>`_ by Bulgarian artist "Ismail Inceoglu"
 
 Some of the pages have views of the same artwork. Just write about the first one.
 
