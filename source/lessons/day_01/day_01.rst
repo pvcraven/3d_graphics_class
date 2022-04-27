@@ -46,10 +46,8 @@ Introduction
 Principles and Elements of Art
 ------------------------------
 
-(TBD: Get some books and read up on this. Put in some sample art. Create my own version of things like:)
-
-http://www.vwarthistory.com/elements-and-principles.html
-https://drawpaintacademy.com/principles-of-art/
+* http://www.vwarthistory.com/elements-and-principles.html
+* https://drawpaintacademy.com/principles-of-art/
 
 
 An artist can convey a **message** using visual cues. A limp can communicate a past
@@ -67,17 +65,30 @@ We can communicate an aesthetic response based on certain **artistic elements** 
   * What colors communicate what aesthetic?
   * A color can be light or dark. How does that change things?
   * A color can be bright and pure, or dull.
+  * Look at the use of color in the portfolio of this artist: https://seventeenth.cgsociety.org/
 
-* form
-* line
-* shape
-* space
-* texture/pattern/rhythm
+* Form - If we are working with 3D art like sculptures, we are talking about the actual
+  shapes. Cones, spheres, etc. For more info, see `Form in Art <https://www.widewalls.ch/magazine/form-in-art>`_.
+* Line - Actual lines, curves, or implied. With still 2D art, how can you interpret movement and intention?
+* Shape - How can you use shape in art? A master of using art, Pablo Picasso:
+
+  .. image:: pablo.webp
+     :width: 50%
+
+* Space -
+* Texture/pattern/rhythm
 
   * Texture - how do you think things would feel if you touched them? https://3dtextures.me/
 
-* scale
-* proportion
+* Scale - Smaller objects can appear further away, angles can give a sense of size (e.g.,
+  Hagrid in Harry Potter.)
+* Proportion - How things look in relation to each other. For example, note the two
+  outfits, and how the clothing can affect the sense of proportion:
+
+  .. figure:: torso.jpg
+
+     `Image from Beauty Fashioned Simply <https://beautyfashionedsimply.com/what-to-wear-for-long-legs-a-short-torso/>`_
+
 * unity/variety
 * movement
 * mass
