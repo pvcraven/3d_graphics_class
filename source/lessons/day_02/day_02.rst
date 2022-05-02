@@ -58,18 +58,39 @@ Discuss the following points:
   to list the different "assets" from this scene that the author could reuse
   somewhere else.
 
+  Explore assets from:
 
-.. _building_a_rocket:
+  * `Quixel Megascans <https://quixel.com/megascans/home?category=3D asset>`_
+  * `BlenderKit <https://www.blenderkit.com/>`_
+  * `SketchFab <https://sketchfab.com/tags/blender>`_
+  * `BlenderMarket <https://blendermarket.com/categories/models>`_
 
-Building a Rocket Videos to Watch
----------------------------------
+Intro to Mesh Modeling
+----------------------
 
-These were make width Blender 2.8, the videos are fine with our Blender 2.9.
+Rather than just work with primitives objects, like cubes and spheres,
+we want to edit and create our own shapes. This group of points, lines, and planes
+is called a **mesh**.
+
+While these mesh modeling tutorials were made with Blender 2.8,
+they still work fine with our current Blender. You'll notice a few changes in the interface,
+but it should still be easy for follow.
+
+The videos are from CG Cookie's `Build and Animate a Low Poly Rocket in Blender for Beginners <https://cgcookie.com/courses/build-and-animate-a-low-poly-rocket-in-blender-for-beginners>`_
+
+Mesh modeling
+^^^^^^^^^^^^^
 
 * `Intro to Mesh Modeling in Blender <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ebe9f2fe-f366-45a4-9a76-ad1a00fafade>`_
 * `Exploring Edit Mode <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=198dd01d-8bff-43bd-939e-ad1a00fafae9>`_
 * `Adding and Removing Vertices <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0702e6f3-bc65-4edf-a57a-ad1a00fafa6b>`_
 * `Mesh Modeling Tools <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e352e97-ac5f-4df6-91b3-ad1a00fafa53>`_
+
+.. _building_a_rocket:
+
+Rocket Building
+^^^^^^^^^^^^^^^
+
 * `Modeling the Rocket <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=936bad6f-6dc4-43d2-b919-ad1c01524550>`_
 * `Adding Thrusters and Fins <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5999839-e8cc-4ae6-b166-ad1c01522ca1>`_
 * `Adding Color to our Rocket <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=17935274-ba14-40c2-a6a3-ad1c015283ca>`_

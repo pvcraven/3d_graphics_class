@@ -3,6 +3,15 @@
 Final Project
 =============
 
+It is time to put everything you've learned to use! Time for the final project.
+
+2021 Projects:
+
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sCeKjr2BY7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+2014 Projects:
 
 .. raw:: html
 
