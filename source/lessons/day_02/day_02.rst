@@ -16,7 +16,7 @@ Due tomorrow:
 
 A new assignment will be due Wednesday:
 
-:ref:`Assignment_03`
+* :ref:`Assignment_03`
 
 We will spend tomorrow on additional lessons in mesh modeling and another
 mesh modeling assignment.
@@ -68,15 +68,13 @@ Discuss the following points:
 Intro to Mesh Modeling
 ----------------------
 
-Rather than just work with primitives objects, like cubes and spheres,
+Rather than just work with primitive objects, like cubes and spheres,
 we want to edit and create our own shapes. This group of points, lines, and planes
-is called a **mesh**.
+is called a **mesh**. Creating this custom mesh is called **mesh modeling**.
 
 While these mesh modeling tutorials were made with Blender 2.8,
 they still work fine with our current Blender. You'll notice a few changes in the interface,
-but it should still be easy for follow.
-
-The videos are from CG Cookie's `Build and Animate a Low Poly Rocket in Blender for Beginners <https://cgcookie.com/courses/build-and-animate-a-low-poly-rocket-in-blender-for-beginners>`_
+but it should still be easy to follow.
 
 Mesh modeling
 ^^^^^^^^^^^^^
@@ -90,6 +88,11 @@ Mesh modeling
 
 Rocket Building
 ^^^^^^^^^^^^^^^
+
+It is easier to learn mesh modeling if you are building something.
+Let's build a rocket.
+
+The videos are from CG Cookie's `Build and Animate a Low Poly Rocket in Blender for Beginners <https://cgcookie.com/courses/build-and-animate-a-low-poly-rocket-in-blender-for-beginners>`_
 
 * `Modeling the Rocket <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=936bad6f-6dc4-43d2-b919-ad1c01524550>`_
 * `Adding Thrusters and Fins <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5999839-e8cc-4ae6-b166-ad1c01522ca1>`_

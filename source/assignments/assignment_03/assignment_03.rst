@@ -7,7 +7,7 @@ Assignment 3 - Mesh Modeling a Rocket
     :width: 50%
 
 Go to :ref:`building_a_rocket`. Follow those tutorial videos.
-Feel take a bit of artistic freedom, but don't stray too far off the tutorial.
-This is a skill-building exercise.
+Feel free take a bit of artistic freedom, but don't stray too far off the tutorial.
+This is a skill-building exercise more than a create-art exercise.
 
-Upload your resulting .blend file to Moodle.
+Upload your resulting ``.blend`` file to Moodle.
