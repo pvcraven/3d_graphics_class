@@ -87,11 +87,8 @@ enjoying learning 3D, I've left them in as optional.
 Modeling a Low Poly Room
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-This is an 'assignment' that isn't graded. You'll need the skills
-in a later assignment, so there's no need for the grading now.
-But it is necessary to put your new skills to use so that you've learned them
-in practice. Please work on this in-class.
-
-(There is a place you can upload it on Moodle to show it off.)
+This is the first part of :ref:`Assignment_05`. This assignment has you model a low
+poly room. Later on, we'll add lighting and textures to it. Once both parts are
+done you'll turn it in. For now, concentrate on the modeling part.
 
 * `Modeling a Low Poly Room <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58c02b24-4b02-43c9-b982-ad1d0159e0d7>`_
