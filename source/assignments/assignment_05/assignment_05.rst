@@ -15,6 +15,10 @@ that ends in ``.blend1``.
 
 If you use an image that you didn't create yourself, see :ref:`citing`.
 
+Video on getting started:
+`Modeling a Low Poly Room <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58c02b24-4b02-43c9-b982-ad1d0159e0d7>`_.
+
+
 .. figure:: 1.png
 
     Model by Abby Bowers, 2021

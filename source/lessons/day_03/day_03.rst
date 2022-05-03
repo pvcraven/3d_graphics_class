@@ -1,25 +1,84 @@
 Day 3 - Mesh Modeling Deep Dive
 ===============================
 
+.. image:: dive.svg
+   :width: 20%
+   :class: right-image
+
 Today we'll talk about creating a backstory for an art piece, and also a bit
 about color theory.
 
 **Reminder:**
 
-* :ref:`Assignment_03` is due tomorrow
+* :ref:`Assignment_01` and :ref:`Assignment_02` were due at the start of class today (Wednesday).
+* :ref:`Assignment_03` is due tomorrow (Thursday) at 8:30 am.
+* A new assignment, :ref:`Assignment_04`, is due in two days (Friday) at 8:30 am.
+* A new assignment, :ref:`Assignment_05`, is due next week, Tuesday, at 8:30 am.
 
-Color Theory
-------------
+.. _backstory:
+
+Developing a Backstory
+----------------------
+
+In :ref:`assignment_01` and :ref:`sintel`
+we talked about artists can communicate specific messages, and even
+emotions using art.
+
+Now, we'll explore how we can use a single piece
+of art to tell a whole story. Take a look at this image:
+
+.. figure:: 68732_1279129309_large.jpg
+
+    Image by Marek Denko
+
+Images like this can inspire the imagination. What is the story here?
+In :ref:`Assignment_04` your goal is to fill in that missing story.
+Here is one example that where the author used the image to put together a backstory:
+
+Sample Story
+   James glanced at his watch, quarter to seven, he thought, where does the time go?  With a sigh, he extinguished his
+   cigarette and flicked it into the terminal’s ashtray.  Leaning on his umbrella for support, James made his way to
+   the windows for a closer look at the metallic bird that would soon carry him to his next home.  Carefully, he
+   surveyed the room from the reflection on the glass, but he saw no sign of anyone suspicious. How much longer will
+   they chase? It’s been thirty years. In his prime, James had been a man with the ability to infiltrate buildings with
+   ease.  His skill-set was so great that he had been nearly set for life by 24.  One last job was all it was going to
+   take. Fifteen minutes in and out, no one around, a lightweight mark, and a fence already set up.  Everything went
+   smoothly for the first ten minutes, and then all hell broke loose.
+
+   Ten minutes to seven. A voice came over the intercom announcing boarding would begin in five minutes.  James hobbled
+   down the row of windows, taking notice of an older woman sitting in the seats.  Being careful to keep his full face
+   from view, he caught her reflection in the glass, that’s odd… She seems almost familiar.  Cautiously, James turned
+   back to the planes, five more minutes and he would be boarded.  Off to the next country to pick up a cache and go
+   into hiding once more.  As he reached up to adjust his hat, he heard a click and a soft voice speaking behind him,
+   "It’s been a long while, James."
+
+See :ref:`Assignment_04`.
+
+
+Technical
+---------
+
+Fonts
+^^^^^
+
+.. image:: fonts.svg
+   :width: 20%
+   :class: right-image
 
 Before we talk about color, let's talk about
 `the difference between serif and sans serif <https://www.fonts.com/content/learning/fontology/level-1/type-anatomy/serif-vs-sans-for-text-in-print>`_.
 
-* Talk about color and text. Note text of news sites like:
+Talk about color and text. Note text of news sites like:
 
   * `Washington Post <https://www.washingtonpost.com/>`_
   * `Fox News <http://www.foxnews.com/>`_
   * `Wall Street Journal <https://www.wsj.com/>`_
   * `New York Times <https://www.nytimes.com/>`_
+
+Always, white text on black, or black on white. Avoid colored backgrounds or text.
+
+Color Theory
+^^^^^^^^^^^^
 
 * Talk about `color theory`_.
 * Talk about creating color schemes. Look at `Adobe Kuler`_.
@@ -27,15 +86,21 @@ Before we talk about color, let's talk about
 .. _Adobe Kuler: https://color.adobe.com/create/color-wheel/
 .. _color theory: http://www.worqx.com/color/index.htm
 
-Blender Technical
------------------
+Understanding Polygon Count
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Polygons:
+
+.. image:: polygons.svg
+
 
 * What is a triangle?
 * A quad?
 * An n-gon?
-* Tracking polygon/vertex count
+* `How to see polygon/vertex count <https://blender.stackexchange.com/questions/192990/polygon-and-vertices-count-for-blender-2-9>`_
+
+Advanced Mesh Modeling Tutorial Videos
+--------------------------------------
 
 Some of the videos uses a chair. To follow along,
 `download the chair here <../../_static/chair.zip>`_ and open in Blender.
@@ -85,7 +150,7 @@ enjoying learning 3D, I've left them in as optional.
 .. _model-bedroom:
 
 Modeling a Low Poly Room
-^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 This is the first part of :ref:`Assignment_05`. This assignment has you model a low
 poly room. Later on, we'll add lighting and textures to it. Once both parts are
