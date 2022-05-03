@@ -14,7 +14,7 @@ Due tomorrow:
 * :ref:`Assignment_01`
 * :ref:`Assignment_02`
 
-A new assignment will be due Wednesday:
+A new assignment will be due Thursday:
 
 * :ref:`Assignment_03`
 
