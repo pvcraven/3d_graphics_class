@@ -8,7 +8,9 @@ Assignment 2 - Primitive Modeling
 
    Model by Taylor Brommel, 2021
 
-* Name your file ``primitive_modeling.blend``
+* Name your file ``primitive_modeling.blend``. (Your file system might hide the ``.blend`` and only show you the title.
+  Blender might create backup files with names ending in ``.blend1``. These are **not** the files you want to upload
+  as they typically hold a previous version of your work.)
 * Complete the
   `Primitive Modeling Exercise <https://cgcookie.com/lesson/primitive-modeling-exercise>`_.
   Use primitives, the ability to move them and scale the objects to create something of
