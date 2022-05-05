@@ -4,8 +4,8 @@ Day 4 - Lighting / Materials / Backstory
 Two main goals for today. First, talk about art telling a story. Second,
 learn about lighting and art.
 
-Don't forget to finish :ref:`model-bedroom`. You'll need those skills, even
-if that assignment isn't graded.
+Don't forget to finish modeling :ref:`model-bedroom`. You'll need those skills, 
+and we'll use the model for lighting practice as well.
 
 * :ref:`Assignment_04` is due Friday
 
