@@ -18,6 +18,9 @@ If you use an image that you didn't create yourself, see :ref:`citing`.
 Video on getting started:
 `Modeling a Low Poly Room <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58c02b24-4b02-43c9-b982-ad1d0159e0d7>`_.
 
+While the video mentions a starting file, I'm looking for you to start from scratch.
+This `how to create a low poly room <https://medium.com/@dunn.j/how-to-make-a-low-poly-room-in-blender-199d1ef59145>`_
+has a good tutorial on starting from scratch.
 
 .. figure:: 1.png
 
