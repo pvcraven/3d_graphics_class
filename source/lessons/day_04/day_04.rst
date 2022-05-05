@@ -1,13 +1,15 @@
-Day 4 - Lighting / Materials / Backstory
-========================================
+Day 4 - Lighting / Materials
+============================
 
 Two main goals for today. First, talk about art telling a story. Second,
 learn about lighting and art.
 
-Don't forget to finish modeling :ref:`model-bedroom`. You'll need those skills, 
-and we'll use the model for lighting practice as well.
+Don't forget to finish modeling :ref:`model-bedroom`. We'll be introducing lighting
+in today's videos.
 
+* :ref:`Assignment_03` is due today, Thursday
 * :ref:`Assignment_04` is due Friday
+* :ref:`Assignment_05` is due Tuesday
 
 Eevee vs Cycles
 ---------------
@@ -23,6 +25,10 @@ and how to switch blender between the two.
 
 Lighting in Blender
 -------------------
+
+.. image:: lamp.svg
+   :width: 20%
+   :class: right-image
 
 `Download the files for the videos here <../../_static/fundamentals-of-lighting_source-files.zip>`_.
 Start with the ``cornell-box_portal.blend`` file.

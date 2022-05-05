@@ -1,5 +1,5 @@
-Day 09 - Physics and Path Following
-===================================
+Day 9 - Physics and Path Following
+==================================
 
 Videos
 ------
