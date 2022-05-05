@@ -9,7 +9,6 @@ and we'll use the model for lighting practice as well.
 
 * :ref:`Assignment_04` is due Friday
 
-
 Eevee vs Cycles
 ---------------
 
