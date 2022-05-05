@@ -9,31 +9,6 @@ if that assignment isn't graded.
 
 * :ref:`Assignment_04` is due Friday
 
-Telling a Story
----------------
-
-Good art often tells a story. Let's practice.
-
-Take a look at this image.
-Brainstorm some ideas on what the backstory could be here. What happened
-before this image, to bring it about? Pick up queues from the image. List those
-items, then list what aspects of a story they could bring about.
-
-
-.. figure:: image_1.jpg
-   :width: 80%
-
-   Image from Amir Hossein Ghasemi [#f2]_
-
-Got the idea? Great! Let's try it again.
-
-.. figure:: image_2.jpg
-   :width: 80%
-
-   Image from Javier Diaz [#f3]_
-
-Finally, your :ref:`Assignment_04` is to do this yourself, and write up a story
-to fit with an image.
 
 Eevee vs Cycles
 ---------------
@@ -91,5 +66,3 @@ introduction to let people know it is there if you are interested.
 Done with the videos? Finish your low-poly bedroom.
 Apply what you've learned to light that room.
 
-.. [#f2] "`Amir Hossein Ghasemi <https://cgsociety.org/c/featured/3n0q/beyond-the-valley>`_". Dec 2020. Retrieved 2021-05-04.
-.. [#f3] "`Javier Diaz <https://bejavier.cgsociety.org/gkkk/montague-ratsbone-ii>`_". Mar 2021. Retrieved 2021-05-04.

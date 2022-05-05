@@ -19,6 +19,14 @@ CGSociety_ website.
 * `Image 5 <https://cgsociety.org/c/editors-pick/u592/black-mamba>`_ by Ukrainian artist "Ant-Onix"
 * `Image 6 <https://cgsociety.org/c/featured/22bh/the-answer-is-in-the>`_ by Bulgarian artist "Ismail Inceoglu"
 
+2022 Popularity:
+| Image 1: xxxxxxxxxxxxx
+| Image 2: xxxxxx
+| Image 3: xxx
+| Image 4: xx
+| Image 5: x
+| Image 6: xxxxxxxx
+
 Some of the pages have views of the same artwork. Just write about the first one.
 
 Create an MS Word document (or PDF)
@@ -27,6 +35,10 @@ Create an MS Word document (or PDF)
 2. Put which image number you picked.
 3. List two **messages**, and two **aesthetic responses** that the image
    communicates. Make it easy for me to find your four items.
+
+   The most frequent mistake is to not clearly label two messages (e.g. dark, night outside), and two
+   aesthetics (e.g. warm colors, happy feeling).
+
 4. For each item, list how the artist has gone about conveying that
    message, or aesthetic. For the aesthetic, consider what we discussed with
    :ref:`principles`:

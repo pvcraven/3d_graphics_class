@@ -22,7 +22,12 @@ Assignment 2 - Primitive Modeling
 .. tip::
 
   If you are looking for more than a "C", make sure to spend time adding detail
-  to your model.
+  to your model. Also, use a variety of primitives. (Not just cubes, or spheres.)
+
+.. warning::
+
+   Blender does not auto-save. Save often. Keep backups in case your file corrupts,
+   or the computer you are working on crashes.
 
 .. figure:: 2.png
    :width: 100%
@@ -83,3 +88,35 @@ Assignment 2 - Primitive Modeling
    :width: 100%
 
    Model by a CIS 160 student, 2021
+
+.. figure:: 14.png
+   :width: 100%
+
+   Model by a CIS 160 student, 2022
+
+.. figure:: 15.png
+   :width: 100%
+
+   Model by Jude, 2022
+
+.. figure:: 16.png
+   :width: 100%
+
+   Model by a CIS 160 student, 2022
+
+.. figure:: 17.png
+   :width: 100%
+
+   Model by Ean Warrick, 2022
+
+.. figure:: 19.png
+   :width: 100%
+
+   Model by a CIS 160 student, 2022
+
+.. figure:: 20 .png
+   :width: 100%
+
+   Model by a CIS 160 student, 2022
+
+

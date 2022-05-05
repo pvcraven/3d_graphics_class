@@ -17,27 +17,45 @@ about color theory.
 
 .. _backstory:
 
-Developing a Backstory
-----------------------
+Telling a Story
+---------------
 
 In :ref:`assignment_01` and :ref:`sintel`
 we talked about artists can communicate specific messages, and even
 emotions using art.
 
-Now, we'll explore how we can use a single piece
-of art to tell a whole story. Take a look at this image:
+Good art can tell an *entire story*. Let's practice.
+
+Take a look at this image.
+Brainstorm some ideas on what the backstory could be here. What happened
+before this image, to bring it about?
+
+1. First, pick up cues from the image. List those items in the image that hint to a story.
+2. Next, list what aspects of a story that could explain why those elements are in the image.
+3. Finally, how do those elements fit together?
+
+.. figure:: image_1.jpg
+   :width: 100%
+
+   Image from Amir Hossein Ghasemi [#f2]_
+
+Got the idea? Great! Let's try it again.
+
+.. figure:: image_2.jpg
+   :width: 80%
+
+   Image from Javier Diaz [#f3]_
+
+
+Here is an example of an image, and a story that goes with it.
 
 .. figure:: 68732_1279129309_large.jpg
 
     Image by Marek Denko
 
-Images like this can inspire the imagination. What is the story here?
-In :ref:`Assignment_04` your goal is to fill in that missing story.
-Here is one example that where the author used the image to put together a backstory:
-
 Sample Story
    James glanced at his watch, quarter to seven, he thought, where does the time go?  With a sigh, he extinguished his
-   cigarette and flicked it into the terminal’s ashtray.  Leaning on his umbrella for support, James made his way to
+   cigarette and flicked it into the terminal's ashtray.  Leaning on his umbrella for support, James made his way to
    the windows for a closer look at the metallic bird that would soon carry him to his next home.  Carefully, he
    surveyed the room from the reflection on the glass, but he saw no sign of anyone suspicious. How much longer will
    they chase? It’s been thirty years. In his prime, James had been a man with the ability to infiltrate buildings with
@@ -52,7 +70,7 @@ Sample Story
    into hiding once more.  As he reached up to adjust his hat, he heard a click and a soft voice speaking behind him,
    "It’s been a long while, James."
 
-See :ref:`Assignment_04`.
+See :ref:`Assignment_04` where you'll create your own backstory to an image.
 
 
 Technical
@@ -157,3 +175,6 @@ poly room. Later on, we'll add lighting and textures to it. Once both parts are
 done you'll turn it in. For now, concentrate on the modeling part.
 
 * `Modeling a Low Poly Room <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58c02b24-4b02-43c9-b982-ad1d0159e0d7>`_
+
+.. [#f2] "`Amir Hossein Ghasemi <https://cgsociety.org/c/featured/3n0q/beyond-the-valley>`_". Dec 2020. Retrieved 2021-05-04.
+.. [#f3] "`Javier Diaz <https://bejavier.cgsociety.org/gkkk/montague-ratsbone-ii>`_". Mar 2021. Retrieved 2021-05-04.
