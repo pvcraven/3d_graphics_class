@@ -22,6 +22,7 @@ Talk about rendering engines. We'll talk about accuracy vs.
 time in rendering speed. What the differences between Eevee and Cycles are,
 and how to switch blender between the two.
 
+.. _lighting:
 
 Lighting in Blender
 -------------------
@@ -46,10 +47,11 @@ Required videos and the artistic use of light
 
 * `Switching Over to Eevee <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=baf4e08b-8109-49fc-8d9b-ad1e016b1c54>`_
 
-
 * `The Three Point Lighting Setup <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6d34c2d9-23c1-4efa-adf0-ad1e016b2165>`_
 * `Working with Shadows and Gradients <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c5b898f-696d-4f1b-aba4-ad1e016b379f>`_
 * `The Five Roles of Lighting <https://simpsoncollege.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=78c442e1-a596-437d-bed3-ad1e016b1c72>`_
+
+.. _materials:
 
 Materials in Blender
 --------------------

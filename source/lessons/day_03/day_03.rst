@@ -117,6 +117,8 @@ Polygons:
 * An n-gon?
 * `How to see polygon/vertex count <https://blender.stackexchange.com/questions/192990/polygon-and-vertices-count-for-blender-2-9>`_
 
+.. _adv_mesh:
+
 Advanced Mesh Modeling Tutorial Videos
 --------------------------------------
 
