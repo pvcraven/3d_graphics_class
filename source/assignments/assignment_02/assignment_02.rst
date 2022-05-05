@@ -114,7 +114,17 @@ Assignment 2 - Primitive Modeling
 
    Model by a CIS 160 student, 2022
 
-.. figure:: 20 .png
+.. figure:: 20.png
+   :width: 100%
+
+   Model by a CIS 160 student, 2022
+
+.. figure:: 21.png
+   :width: 100%
+
+   Model by Grayson Hardin, 2022
+
+.. figure:: 22.png
    :width: 100%
 
    Model by a CIS 160 student, 2022
