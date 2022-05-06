@@ -22,6 +22,7 @@ Videos
 * `Common problems with extrude <https://youtu.be/V4PG30MjVwM?>`_
 
    * Duplicate cube three times.
+   * Show viewport shading...options...random
    * Cube 1. Select a face. Pull it out. All is ok.
    * Cube 2. Extrude. Hit escape. Now have two items on top of each other. Show what it looks like.
    * Cube 3. Show how to recover. Ctrl-Z. Or Mest...clean up...merge by distance.
