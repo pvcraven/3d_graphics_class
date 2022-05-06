@@ -12,6 +12,13 @@ same info.
 Videos
 ------
 
+* Misc
+
+  * Remind Num-Del for centering
+  * Num-0 for camera
+  * R and RR for rotating the camera after selection
+  * Shift-Tilde for fly mode
+
 * `Common problems with extrude <https://youtu.be/V4PG30MjVwM?>`_
 
    * Duplicate cube three times.
@@ -52,8 +59,8 @@ Videos
   * Show how to export a template
   * Do it with a cylinder
 
-* `Packing textures in Blender <https://youtu.be/iK7OB49jHTU>`_
 * `Texture painting in Blender <https://youtu.be/4b-cLFZCyGQ>`_
+* `Packing textures in Blender <https://youtu.be/iK7OB49jHTU>`_
 
 After this, please work on :ref:`assignment_05`. Be ready in-class to show me
 your progress.
