@@ -40,13 +40,20 @@ For this section you need the following:
 2. List two artistic goals for each person on your team, and how you plan on
    accomplishing them.
 
-For example, if you are planning on creating a suspense aesthetic, that would be a messaging goal.
+For example, if you are planning on creating a suspenseful aesthetic, that would be a messaging goal.
 You could accomplishing that feeling by using lighting that creates
 long shadows and adding suspenseful music to your video. You can write about
 the artistic elements of color and how you plan on choosing dark colors. By using the
 elements of shape, jagged shapes can make things seem dangerous. Images can have balance, or if
 you want suspense maybe we make t he image seem  unbalanced. Refer back to :ref:`principles` for other
 ideas.
+
+.. note:: Clearly label the 'what' and the 'how'
+
+   This is the most frequent place people miss points. Make it very clear what the message is
+   (awe, suspense, happiness, dogs are awesome, etc.) and how you plan on creating that message
+   (use color, make dogs look cute anf fluffy, happy expressions, etc.) Remember, two per person.
+   You'll revisit this in your final submission to see how you did.
 
 Section 2: Technical
 --------------------
@@ -106,14 +113,22 @@ For this section of your plan do the following:
 2. List two items for each person in your team that you plan on spending a
    lot of time doing detail work with.
 
+Examples
+--------
+
+* `Example 1 <../../_static/assignment_6_sample_1.pdf>`_
+* `Example 2 <../../_static/assignment_6_sample_2.pdf>`_
+
 Submitting
 ----------
 
 Before you submit: Check you spelling. Check the grammar. Make certain your
 plan is well organized and easy to read. Bullet points and lists are ok,
-but the entire thing shouldn't be lists. There should be some written discussion
+**but the entire thing shouldn't be lists**. There should be some written discussion
 of what you are creating.
 
-**Double-check:** Make sure you have name(s), date, and title on top.
-That you clearly explain each artistic message, and how you are going to
-deliver it.
+.. warning:: Double-Check
+
+   Make sure you have name(s), date, and title on top.
+   That you clearly explain each artistic message, and how you are going to
+   deliver it.
