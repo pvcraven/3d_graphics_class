@@ -37,15 +37,17 @@ the aesthetic? What elements and principles will you use?
 For this section you need the following:
 
 1. Think up an initial working title for your project.
-2. List two artistic goals for each person on your team, and how you plan on
+2. List two artistic messages for each person on your team, and how you plan on
    accomplishing them.
 
-For example, if you are planning on creating a suspenseful aesthetic, that would be a messaging goal.
+For example, if you are planning on creating a suspenseful aesthetic, that would be a goal.
 You could accomplishing that feeling by using lighting that creates
 long shadows and adding suspenseful music to your video. You can write about
-the artistic elements of color and how you plan on choosing dark colors. By using the
-elements of shape, jagged shapes can make things seem dangerous. Images can have balance, or if
-you want suspense maybe we make t he image seem  unbalanced. Refer back to :ref:`principles` for other
+the artistic elements of color and how you plan on choosing dark colors.
+"Lighting" is not the goal, creating a "suspenseful atmosphere" is.
+By using the
+elements of shape, jagged shapes, you can make things seem dangerous. Images can have balance, or if
+you want suspense maybe we make the image seem unbalanced. Refer back to :ref:`principles` for other
 ideas.
 
 .. note:: Clearly label the 'what' and the 'how'
@@ -54,6 +56,12 @@ ideas.
    (awe, suspense, happiness, dogs are awesome, etc.) and how you plan on creating that message
    (use color, make dogs look cute anf fluffy, happy expressions, etc.) Remember, two per person.
    You'll revisit this in your final submission to see how you did.
+
+   Things that **aren't** goals/messages: color, texture, detail, realism, reflectivity, mood, balance,
+
+
+   Things that **are** goals/messages: A person is happy, a person is moving fast, a person is about
+   to fall and therefore in danger, the environment is outdoors and cold, hope for a better future, a strong storm
 
 Section 2: Technical
 --------------------
