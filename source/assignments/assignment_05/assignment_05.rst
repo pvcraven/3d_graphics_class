@@ -26,6 +26,17 @@ Unlike the rocket assignment, this one has a lot of room for creativity. Feel fr
 model the room the way you'd like, just spend time using those mesh modeling tools you've
 just learned about.
 
+Before turning in:
+
+* Model a low poly bedroom (6 pts)
+* Color the items in the room using materials (1 pt)
+* Add lights. Do better than one light in the ceiling. (1 pt)
+* Make sure you've got a camera in the scene, and it points to your room (1 pt)
+* Put an image texture on at least one item in the room (1 pt)
+
+  * "Pack" any textures you have into the file with File...External Data...Automatically Pack Resources
+  * Create a document with citations on any images you use.
+
 .. figure:: 1.png
 
     Model by Abby Bowers, 2021
