@@ -57,11 +57,12 @@ ideas.
    (use color, make dogs look cute anf fluffy, happy expressions, etc.) Remember, two per person.
    You'll revisit this in your final submission to see how you did.
 
-   Things that **aren't** goals/messages: color, texture, detail, realism, reflectivity, mood, balance,
+   Things that ** are not** goals/messages: color, texture, detail, realism, reflectivity, mood, balance, background
 
 
    Things that **are** goals/messages: A person is happy, a person is moving fast, a person is about
-   to fall and therefore in danger, the environment is outdoors and cold, hope for a better future, a strong storm
+   to fall and therefore in danger, the environment is outdoors and cold, hope for a better future, a strong storm,
+   pride one feels for your school (school spirit)
 
 Section 2: Technical
 --------------------

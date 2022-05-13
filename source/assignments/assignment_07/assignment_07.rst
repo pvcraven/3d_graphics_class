@@ -21,7 +21,8 @@ Your video should have:
 * Add least three objects to your scene. You can create three copies of the object,
   that's ok. You might color them differently so  that you've got a bit of
   variety.
-* Animate the three objects. One of which can be the camera.
+* Animate the three objects. One of which can be the camera. Animate using keyframes as
+  shown in class.
 
 Optional:
 
@@ -35,7 +36,7 @@ Double-Check Your Turn In!
     :width: 20%
     :class: right-image
 
-These are some spots where people have lost points. Double-check before turning
+These are some spots where people have lost points. Double-check bthese items efore turning
 in your assignment!
 
 * Make sure three items are animated.
@@ -43,6 +44,8 @@ in your assignment!
 * Upload your Blender file (not the ``.blend1`` file)
 * Upload your rendered movie
 * If you use any external image, don't forget to cite it. See :ref:`citing`.
+
+Again, upload **both** the ``.blend`` and ``.mp4`` files!
 
 Prior Submissions
 -----------------
