@@ -7,4 +7,5 @@ Learn 3D Graphics with Blender
 
    lessons/index
    assignments/index
+   resources
 
