@@ -21,8 +21,8 @@ Your video should have:
 * Add least three objects to your scene. You can create three copies of the object,
   that's ok. You might color them differently so  that you've got a bit of
   variety.
-* Animate the three objects. One of which can be the camera. Animate using keyframes as
-  shown in class.
+* Animate the three objects. One of which can be the camera. Animate using keyframes
+  (i.e. using the 'i' key and location/rotation) as shown in class.
 
 Optional:
 
