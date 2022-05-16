@@ -5,6 +5,12 @@ Day 11 - What is Art?
 * `What is Art? <https://en.wikipedia.org/wiki/Art>`_
 * `Mental Floss <http://mentalfloss.com/article/57501/27-responses-question-what-art>`_
 
+Discuss
+-------
+
+* What categories of things are considered art?
+* At what point does something become art?
+
 Fine Art
 --------
 
@@ -169,6 +175,7 @@ Why support art?
   * Buy art at art fairs?
   * Buy tickets to movies?
   * Art and usage rights
+  * NFTs
 
 * Why have public support for the arts?
 
@@ -179,7 +186,11 @@ Why support art?
 
 * How has the Internet changed everything?
 
+Why create art?
+---------------
 
+* Why is it important to not just appreciate art, but create it yourself?
+* Should you still do it even if you aren't an 'artist'?
 
 Final Project
 -------------
