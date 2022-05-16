@@ -24,6 +24,8 @@ and not given a score, or have a significantly reduced score.
 
 Your project plan will be divided into three sections, described below.
 
+.. _artistic_expression:
+
 Section 1: Artistic Expression
 ------------------------------
 
@@ -57,7 +59,7 @@ ideas.
    (use color, make dogs look cute anf fluffy, happy expressions, etc.) Remember, two per person.
    You'll revisit this in your final submission to see how you did.
 
-   Things that ** are not** goals/messages: color, texture, detail, realism, reflectivity, mood, balance, background
+   Things that **are not** goals/messages: color, texture, detail, realism, reflectivity, mood, balance, background
 
 
    Things that **are** goals/messages: A person is happy, a person is moving fast, a person is about
@@ -121,6 +123,27 @@ For this section of your plan do the following:
    last day will be presentations, and it will not be a work-day.
 2. List two items for each person in your team that you plan on spending a
    lot of time doing detail work with.
+
+Tips
+^^^^
+
+**Grass:** If you need grass in your scene, there are two ways to do it. If your camera
+is from far away, just throw an image of grass on a plane that represents the
+ground. This is easy to do, and fast for the computer to render.
+
+The other way is to follow the tutorials where it shows you how to model each
+individual blade of grass. This is slow, and takes a while to model. The computers
+we have don't handle that many blades of grass well. It takes a long time to
+render.
+
+If the grass isn't important, do it the first way. If grass is important, then
+model it the second way.
+
+**People:** Creating a person is difficult. Animating is even more difficult.
+Creating a semi-realistic face could easily take you the entire time. Creating
+a body also could take several weeks. Rigging and moving the body could take
+quite a while. You can create cartoonish looking people in a reasonable amount
+of time.
 
 Examples
 --------
