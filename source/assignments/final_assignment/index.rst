@@ -57,10 +57,8 @@ Checklist for turning in work
 4.  Upload all rendered images or movies. Again, if too large use OneDrive.
 5.  Upload rubric spreadsheet
     :download:`CIS_Final_Project_Template.xlsx<CIS_Final_Project_Template.xlsx>`.
-    Be specific.
-    "Happy" won't get many points, but "I tried to convey a sense of happiness
-    by using bright warm colors in the center of the image, and smiling snow
-    creatures" is exactly what I'm looking for.
+    Be specific with the artistic message. See :ref:`artistic_expression`
+    for what is and is not a message.
 6.  Spell check the spreadsheet before turning it in. Ask if you can't find the
     button for it.
 7.  Upload a bibliography document with all citations of work used.
@@ -124,8 +122,8 @@ Scoring will be from 0 to 20 points. Some examples:
 * Spent hours inside of class doing detail work on a Lego figure.
 * Spent minutes uploading a model someone else created.
 
-Artistic work
-^^^^^^^^^^^^^
+Artistic message
+^^^^^^^^^^^^^^^^
 
 You may list up to two areas of artistic application per person.
 
@@ -219,25 +217,4 @@ Proffitt, Kenan.
 www.blendernation.com/2017/05/13/create-tnt-crate-model-blender
 Blender Nation. 13 May, 2017.
 Accessed 11 May 2021.
-
-Tips
-----
-
-**Grass:** If you need grass in your scene, there are two ways to do it. If your camera
-is from far away, just throw an image of grass on a plane that represents the
-ground. This is easy to do, and fast for the computer to render.
-
-The other way is to follow the tutorials where it shows you how to model each
-individual blade of grass. This is slow, and takes a while to model. The computers
-we have don't handle that many blades of grass well. It takes a long time to
-render.
-
-If the grass isn't important, do it the first way. If grass is important, then
-model it the second way.
-
-**People:** Creating a person is difficult. Animating is even more difficult.
-Creating a semi-realistic face could easily take you the entire time. Creating
-a body also could take several weeks. Rigging and moving the body could take
-quite a while. You can create cartoonish looking people in a reasonable amount
-of time.
 
