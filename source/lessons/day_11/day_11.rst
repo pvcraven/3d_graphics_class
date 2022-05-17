@@ -192,8 +192,4 @@ Why create art?
 * Why is it important to not just appreciate art, but create it yourself?
 * Should you still do it even if you aren't an 'artist'?
 
-Final Project
--------------
-
-* Go over how to fill out final spreadsheet grading breakdown.
 
