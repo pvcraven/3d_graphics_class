@@ -30,9 +30,10 @@ The goal of this final project is to:
 Directions
 ----------
 
-* You must fill out rubric sheet, reflection, and upload both to get a final
-  project score.
+* You must fill out 1.) rubric sheet, 2.) reflection, 3.) Blender files (packed), and 4.) rendered images/movie
+  and upload to get a final project score.
   Failure to do so will result in no score and failure from the class.
+  Be **very** sure you have everything uploaded.
 * Replace the orange colored text in the rubric with the information requested.
   If you aren't
   sure about having it filled out correctly, please ask! That will be better
