@@ -23,6 +23,8 @@ Your video should have:
   variety.
 * Animate the three objects. One of which can be the camera. Animate using keyframes
   (i.e. using the 'i' key and location/rotation) as shown in class.
+  Animations must be unique. That is, don't just hit 'duplicate' and do the same animation
+  three times.
 
 Optional:
 
