@@ -88,7 +88,7 @@ team, two people should present. Presentation scoring will work as follows:
 Technical
 ^^^^^^^^^
 
-You may list up to two areas of technical achievement per person. Scoring will
+List two areas of technical achievement per person. Scoring will
 be from 0 to 20 points. At the very least, you will likely have entries for
 modeling and lighting your image. You might also have entries for animation.
 
@@ -114,7 +114,7 @@ Examples of scoring:
 Detail work
 ^^^^^^^^^^^
 
-You may list up to two areas that required a lot of detail work per person.
+List two areas that required a lot of detail work per person.
 Scoring will be from 0 to 20 points. Some examples:
 
 * Spent hours and hours outside of class working on modeling a face.
@@ -125,7 +125,7 @@ Scoring will be from 0 to 20 points. Some examples:
 Artistic message
 ^^^^^^^^^^^^^^^^
 
-You may list up to two areas of artistic application per person.
+List two areas of artistic application per person.
 
 * Obvious and effective connection of lighting, modeling, theme,
   and/or sound to communicate a theme or message.
